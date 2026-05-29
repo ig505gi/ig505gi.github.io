@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ig505gi.github.io/blog/sitemap.xml
