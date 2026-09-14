@@ -5,7 +5,7 @@
     <link>https://ig505gi.github.io/rss/</link>
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
-    <atom:link href="https://ig505gi.github.io/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Sat, 13 Sep 2026 13:30:00 +0800</lastBuildDate>
     <item>
       <title>Industry voices push for slower frontier AI — and for outside eyes inside the labs</title>
