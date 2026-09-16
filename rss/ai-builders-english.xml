@@ -6,8 +6,37 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 15 Sep 2026 22:16:00 +0800</lastBuildDate>
-            <item>
+    <lastBuildDate>Wed, 16 Sep 2026 21:44:00 +0800</lastBuildDate>
+            
+    <item>
+      <title>Models are strong — the hard part is still the bridge to work</title>
+      <guid isPermaLink="false">english-reading-2026-09-16</guid>
+      <pubDate>Wed, 16 Sep 2026 21:44:00 +0800</pubDate>
+      <description><![CDATA[<p>Title for RSS: Models are strong — the hard part is still the bridge to work</p>
+<p>Today’s AI news kept coming back to one idea. The models are powerful. The hard part is still connecting that power to real company work.</p>]]></description>
+      <content:encoded><![CDATA[<p>Title for RSS: Models are strong — the hard part is still the bridge to work</p>
+<p>Today’s AI news kept coming back to one idea. The models are powerful. The hard part is still connecting that power to real company work.</p>
+<p>Box CEO Aaron Levie put this in plain words on Training Data and again on X. He said there is a big gap between what models can do and the workflows enterprises want to automate. That gap, he argued, is the chance for an “applied AI” layer — software that sits next to the model and makes it useful at work. In his view, you need to link intelligence to workflows, rebuild some processes, pull the right context and data, keep people in the loop, run change management, do domain-specific evals (tests that check quality in a real field), and manage security. Even if models keep getting better, this layer still matters. Stronger models let you try harder tasks, so the bridge can become even more important.</p>
+<p>Levie also talked about “diffusion” — how AI spreads through many companies, not only through a few big labs. A chatbot can be general. A real workflow often needs something else. It may need to ping you at the right step. It may need data the chatbot cannot reach on its own. Someone still has to set that up inside the company and add domain knowledge. Unless the big labs hire something like 100,000 people to do all of that, he said, a large “diffusion economy” will grow: teams that help firms of every size change how they work. One memorable line from the talk was simple: “You’re either a year ahead or a year behind simply based on your feed.”</p>
+<p>On the product side, Claude moved deeper into day-to-day business tools. Salesforce in Claude is now in beta. It brings accounts, opportunities, and pipeline into Claude, with 37 pre-built sales skills. You can prep a call, review a deal, build a pipeline dashboard, or send a forecast without leaving the chat. Separately, Claude for Small Business added more ready workflows and 27 new integrations with tools owners already use, such as Shopify, Salesforce, Stripe, and Zapier. The product has been installed more than 900,000 times since May. After listening to owners on a spring tour, Anthropic said about a third wanted help growing the business — leads, inbound questions, and proposals — not only running the back office.</p>
+<p>Elsewhere, builders argued about how models should judge and connect. Every CEO Dan Shipper said his team almost never tests new foundation models, but one recent model felt different. It does not mainly output words. It outputs probabilities. In their testing, it could act as a judge in places where you might need a much larger model, yet it was about 25× faster and about 600× cheaper. Replit CEO Amjad Masad pushed back on the wider trend: if you already know the set of possible answers, why not train a model to score those options directly with logprobs (probability scores over a fixed list)? Claude Code’s Thariq said another integration bet is shifting too. He now thinks MCP is better than CLIs for most integrations, because tool calling is stronger, tools can be deferred, and MCP is stateless.</p>
+<p>Infrastructure voices kept the same theme: give people choice, and show your work. Vercel CEO Guillermo Rauch formally introduced Vercel Labs as a public home for research and experiments. He also said the future is multi-model. Hiding the choice, in his view, confuses customers and keeps them from learning which tool fits the job. OpenAI CEO Sam Altman teased a heavy shipping week before DevDay. YC’s Garry Tan said Capy plus his GStack/GBrain setup cut a day of fix work to about half, using the same frontier models.</p>
+<p>Put together, the day was less about a brand-new model name and more about the messy middle. Levie’s bridge, Claude’s sales and small-business connectors, probability judges, MCP tools, and multi-model product design all point to the same problem: intelligence is not enough until it sits next to real workflows, real data, and real people.</p>
+<h3>Sentence Focus</h3>
+<p>That gap, he argued, is the chance for an “applied AI” layer — software that sits next to the model and makes it useful at work.<br/>
+   - That gap, / he argued, / is the chance for an “applied AI” layer / — software that sits next to the model / and makes it useful at work.<br/>
+   - “he argued” 插入语；“sits next to” 表示紧挨着、配合使用，不是字面「坐在旁边」。<br/>
+   - 他认为，那道鸿沟正是「应用层 AI」的机会：一类紧挨着模型、让它在工作中真正有用的软件。</p>
+<p>Even if models keep getting better, this layer still matters.<br/>
+   - Even if models keep getting better, / this layer still matters.<br/>
+   - “Even if …” 让步：就算模型继续变强，后面结论仍成立。<br/>
+   - 即便模型不断变强，这一层仍然重要。</p>
+<p>Unless the big labs hire something like 100,000 people to do all of that, he said, a large “diffusion economy” will grow.<br/>
+   - Unless the big labs hire something like 100,000 people to do all of that, / he said, / a large “diffusion economy” will grow.<br/>
+   - “Unless …” = 「除非…否则」；主句在逗号后，说明扩散经济会出现的条件。<br/>
+   - 他说，除非大实验室雇差不多十万人去包办这一切，否则会成长出很大的「扩散经济」。</p>]]></content:encoded>
+    </item>
+<item>
       <title>Agents will do 100× more work — if we can contain them</title>
       <guid isPermaLink="false">english-reading-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 22:16:00 +0800</pubDate>
