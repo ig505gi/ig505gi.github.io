@@ -6,9 +6,39 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 16 Sep 2026 21:44:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:40:00 +0800</lastBuildDate>
             
-    <item>
+        <item>
+      <title>One Claude for chat and real work</title>
+      <guid isPermaLink="false">english-reading-2026-09-17</guid>
+      <pubDate>Thu, 17 Sep 2026 21:40:00 +0800</pubDate>
+      <description><![CDATA[<p>Title for RSS: One Claude for chat and real work</p>
+<p>Anthropic’s big product move this week is simple to say. Claude Cowork and chat are becoming one Claude. You no longer have to decide which “door” to open for a task.</p>
+<p>For a long time, chat was for quick questions. Cowork was for bigger jobs, such as reports and files. Design was for visuals. Many people used all of them. But they also got tired of choosing. Work started in one place often did not carry into another. So Anthropic stopped making you choose. Claude can now look at your prompt and decide what the task needs: a fast answer, deeper agent work (software that can take steps for you), or a document, a slide deck, or a design. Claude Code’s Cat Wu said users keep control. You can still stop, change direction, or ask for more or less effort.</p>]]></description>
+      <content:encoded><![CDATA[<p>Title for RSS: One Claude for chat and real work</p>
+<p>Anthropic’s big product move this week is simple to say. Claude Cowork and chat are becoming one Claude. You no longer have to decide which “door” to open for a task.</p>
+<p>For a long time, chat was for quick questions. Cowork was for bigger jobs, such as reports and files. Design was for visuals. Many people used all of them. But they also got tired of choosing. Work started in one place often did not carry into another. So Anthropic stopped making you choose. Claude can now look at your prompt and decide what the task needs: a fast answer, deeper agent work (software that can take steps for you), or a document, a slide deck, or a design. Claude Code’s Cat Wu said users keep control. You can still stop, change direction, or ask for more or less effort.</p>
+<p>Claude Code’s Boris Cherny framed the story as one long path. Claude Code showed that AI can do real work, not only answer questions. Developers hand Claude a feature and come back to shipped code. Cowork showed the same idea for knowledge work: hand over a brief and come back to finished files. The next step, he said, is one Claude that keeps context across everything you are doing, wherever you are. He has used the merged experience for weeks and called it simpler, faster, and more powerful. The rollout will be slow so the team can keep it reliable.</p>
+<p>The same update brings Claude Docs, Claude Slides, and Claude Design into the conversation. Ask for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Anthropic Research’s Alex Albert said the merged UX feels better than chat or Cowork alone. Every CEO Dan Shipper put it more loudly: the “tabs era” is ending.</p>
+<p>The official Claude blog walked through a concrete day. A weekly report is due at noon. Before you leave, you ask Claude what moved in the pipeline, then add: write it the usual way, flag anything that slipped, and put the highlights in five slides. You can check progress on your phone. By the time you reach your desk, the report and the slides are waiting — and they already match because they came from the same chat. By default, Claude asks before it acts. The change rolls out first to Pro and Max, then Team and Free. One quote from Senior Economist Andrew Keller captured the hope: Claude could open a legal research database, pull cases, read them, find related cases, download them, and store them for human review.</p>
+<p>Not every voice was only praise. Builder Zara Zhang said she uses Claude less because its way of speaking feels exhausting — as if it is always trying to look smart instead of making a clear point. That kind of blunt feedback sits next to the launch excitement.</p>
+<p>Outside Anthropic, the feed had other sharp notes. OpenAI CEO Sam Altman said the main thing he wanted to launch this week will slip to next week, but he thinks it is worth the wait. OpenAI’s Thibault Sottiaux quoted that delay with a dry line: sometimes physics can’t be cheated. Vercel CEO Guillermo Rauch said typesafeai’s fx tool runs in auto by default, with a safety reviewer on every command. That reviewer runs on GPT Luna today. Jev, he said, is up to about 18× faster at p95 and more accurate, and it is coming to Vercel’s AI Gateway. Claude Code’s Thariq said bash is no longer “all you need” for reliable tool calling, though sandboxes plus bash still help for code generation and execution. Box CEO Aaron Levie pointed to another open space: models that are very fast and cheap, yet still capable, for enterprise tasks such as classification and routing.</p>
+<p>Put together, the day was less about a new model name and more about product shape. Anthropic is betting that one Claude, with docs and slides inside the chat, will remove the friction of tabs. OpenAI is asking people to wait one more week. And builders keep arguing about voice, tools, and speed — the parts that decide whether strong models feel useful at work.</p>
+<h3>Sentence Focus</h3>
+<p>Claude can now look at your prompt and decide what the task needs: a fast answer, deeper agent work, or a document, a slide deck, or a design.<br/>
+   - Claude can now look at your prompt / and decide what the task needs: / a fast answer, / deeper agent work, / or a document, a slide deck, or a design.<br/>
+   - “decide what the task needs” 后用冒号列出选项；“or A, B, or C” 是并列选择。<br/>
+   - Claude 现在能看你的提示，并判断任务需要什么：快速回答、更深的 agent 工作，或文档、幻灯片或设计。</p>
+<p>By the time you reach your desk, the report and the slides are waiting — and they already match because they came from the same chat.<br/>
+   - By the time you reach your desk, / the report and the slides are waiting / — and they already match / because they came from the same chat.<br/>
+   - “By the time …” 表示「到……的时候」；破折号后补原因，because 从句说明为何已经一致。<br/>
+   - 等你到办公桌时，报告和幻灯片已经在等你——而且它们已经对齐，因为来自同一次对话。</p>
+<p>That kind of blunt feedback sits next to the launch excitement.<br/>
+   - That kind of blunt feedback / sits next to / the launch excitement.<br/>
+   - “blunt” 指直白、不绕弯；“sits next to” 表示两种东西并排出现、形成对照，不是字面「坐在旁边」。<br/>
+   - 这种直白的反馈，就挨着发布时的兴奋声。</p>]]></content:encoded>
+    </item>
+<item>
       <title>Models are strong — the hard part is still the bridge to work</title>
       <guid isPermaLink="false">english-reading-2026-09-16</guid>
       <pubDate>Wed, 16 Sep 2026 21:44:00 +0800</pubDate>
@@ -159,5 +189,5 @@
 2. Even when he does not fully agree with Dario’s essay, Guru still urged people to read it carefully and to seek shared language on opportunity, risk, second-order effects, and cross-border coordination.
 3. Any slowdown depends on wide participation, and game theory makes that unlikely until risks look more obvious.</p>]]></content:encoded>
     </item>
-  </channel>
+</channel>
 </rss>
