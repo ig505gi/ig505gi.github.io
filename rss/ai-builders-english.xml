@@ -6,7 +6,39 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 17 Sep 2026 21:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 21:50:00 +0800</lastBuildDate>
+        <item>
+      <title>Claude Projects, family agents, and a flood of tiny software</title>
+      <guid isPermaLink="false">english-reading-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 21:50:00 +0800</pubDate>
+      <description><![CDATA[<p>Title for RSS: Claude Projects, family agents, and a flood of tiny software</p>
+<p>The main story in today’s AI builder feed is simple. Anthropic is rolling out Claude Projects. The idea is not “one more chat.” It is a shared workspace that remembers how you work.</p>
+<p>Claude Code’s Boris Cherny said Projects changed how he talks to Claude and how he writes code. He stopped managing many separate sessions. He now sends thoughts as they come. Claude splits them into threads. The project remembers his habits. That is where he does much of his coding now. Cat Wu, who works on Claude Code and Cowork, described the same shift. Claude coordinates all of her sessions. She can fire off a batch of tasks and move on. Claude keeps context on her work, can give a status update when she asks, and has long-lived memory that evolves with use. The rollout continues over the coming weeks.</p>]]></description>
+      <content:encoded><![CDATA[<p>Title for RSS: Claude Projects, family agents, and a flood of tiny software</p>
+<p>The main story in today’s AI builder feed is simple. Anthropic is rolling out Claude Projects. The idea is not “one more chat.” It is a shared workspace that remembers how you work.</p>
+<p>Claude Code’s Boris Cherny said Projects changed how he talks to Claude and how he writes code. He stopped managing many separate sessions. He now sends thoughts as they come. Claude splits them into threads. The project remembers his habits. That is where he does much of his coding now. Cat Wu, who works on Claude Code and Cowork, described the same shift. Claude coordinates all of her sessions. She can fire off a batch of tasks and move on. Claude keeps context on her work, can give a status update when she asks, and has long-lived memory that evolves with use. The rollout continues over the coming weeks.</p>
+<p>Claude Code’s Thariq added the architecture view. Projects brings the design of Claude Tag into Claude Code. There is one agent per project. That agent manages memory and spins off subagents for tasks. You can ask it to be proactive, or to do things on a schedule. In his words, it feels nicer than a bunch of sessions.</p>
+<p>The official Claude account filled in limits and promises. A project builds over time. Every thread adds to and draws from shared memory, such as a release moving to Friday, or who to ask before touching billing. The project library keeps files you add and files Claude creates. Threads run in the cloud, so they keep working even if your computer is offline. Local files and internal networks are not reachable yet. Local support is coming soon. Existing projects on Pro and Max keep working for now, and Anthropic will upgrade them as the rollout expands.</p>
+<p>Outside coding tools, Google Labs announced a family-focused CC — an AI agent so families spend less time on logistics and more time together. You can add up to five members. Mornings can start with a shared “Your Day Ahead” brief email. Schedules and to-dos can autosync with a shared Google Calendar and Tasks. Families can coordinate in Google Chat with CC for jobs such as weekly meal plans. The waitlist is for the US, ages 18+. Google’s Josh Woodward said his own family likes it.</p>
+<p>Vercel CEO Guillermo Rauch pushed a different scale story. Vercel took 10 years to reach 1 billion deployments. Then it added another 1.4 billion in the last 10 months alone. He thinks more software may be produced next year than in all of computing history so far — from tiny personal tools to full apps, agents, and platforms. The company says it can deploy, upload, assign a domain, and globally propagate an artifact in about one second. For urgent hotfixes, agents can now run `vercel --turbo --prod` on the fastest build machine.</p>
+<p>Box CEO Aaron Levie looked at the same world from the inference side. He said agents already make up the majority of inference, and over the next year or two that share may trend toward nearly all inference. Most tokens, in his view, will be spent by agents that run tasks in the background around the clock. Just in the past week, he said, he introduced multiple new workflows that were not technically possible even a month ago.</p>
+<p>Two smaller notes sit next to these moves. YC’s Garry Tan highlighted Memorable, which optimizes memory with embeddings instead of more tokens. FPV Ventures partner Nikunj Kothari shared nosugarforkids.com, a healthy-snack catalog for kids built with Claude in the loop. A daily Claude agent updates the catalog, checks search performance, and writes content. With zero backlinks and no social presence, he said the site still grew to about 6,000 impressions and 60 clicks a day.</p>
+<p>Put together, the day was about shared memory and background work. Claude Projects wants one agent to hold a whole project. Google’s family CC wants one agent to hold a household calendar. Vercel is racing to ship tiny software at scale. Levie is betting agents will soon use almost all of the tokens. The question is no longer only “how smart is the model?” It is “who keeps the memory, and who keeps working when you walk away?”</p>
+<h3>Sentence Focus</h3>
+<p>He stopped managing many separate sessions.<br/>
+   - He stopped managing / many separate sessions.<br/>
+   - “stopped + -ing” 表示停下某件一直在做的事；“many separate sessions” 强调以前要自己管很多分散会话。<br/>
+   - 他不再自己管理许多彼此分开的会话。</p>
+<p>Threads run in the cloud, so they keep working even if your computer is offline.<br/>
+   - Threads run in the cloud, / so they keep working / even if your computer is offline.<br/>
+   - “even if …” 是让步：就算电脑离线，线程仍继续跑；“so” 连接原因与结果。<br/>
+   - 线程跑在云端，所以即便你的电脑离线，它们也继续工作。</p>
+<p>That kind of shared memory sits next to the volume of tiny software now being deployed.<br/>
+   - That kind of shared memory / sits next to / the volume of tiny software / now being deployed.<br/>
+   - “sits next to” 表示两件事并排放在一起、形成对照；“volume of” 指体量/数量，不是声音大小。<br/>
+   - 这种共享记忆，就挨着眼下正在大量部署的微型软件。</p>]]></content:encoded>
+    </item>
+
             
         <item>
       <title>One Claude for chat and real work</title>
