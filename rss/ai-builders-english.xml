@@ -6,8 +6,39 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 18 Sep 2026 21:50:00 +0800</lastBuildDate>
-        <item>
+    <lastBuildDate>Sat, 19 Sep 2026 21:30:00 +0800</lastBuildDate>
+            <item>
+      <title>Agents that read shared rules, models that race on speed</title>
+      <guid isPermaLink="false">english-reading-2026-09-19</guid>
+      <pubDate>Sat, 19 Sep 2026 21:30:00 +0800</pubDate>
+      <description><![CDATA[<p>Title for RSS: Agents that read shared rules, models that race on speed</p>
+<p>Today’s builder news had one clear theme. People care less about “one more chat model.” They care about agents that follow shared project rules, and about models that are fast and cheap enough to use everywhere.</p>
+<p>The biggest product move came from Claude Code. Thariq, who works on Claude Code at Anthropic, said version 2.1.277 now supports <code>AGENTS.md</code>. Here is the simple rule. If a folder has no <code>CLAUDE.md</code>, Claude will look for <code>AGENTS.md</code> and use it. You can turn this on or off in <code>/config</code>. That sounds small. It is not. Many open-source coding agents already use <code>AGENTS.md</code> as a shared place for project instructions. Claude Code catching up means one file can guide more tools in the same repo.</p>]]></description>
+      <content:encoded><![CDATA[<p>Title for RSS: Agents that read shared rules, models that race on speed</p>
+<p>Today’s builder news had one clear theme. People care less about “one more chat model.” They care about agents that follow shared project rules, and about models that are fast and cheap enough to use everywhere.</p>
+<p>The biggest product move came from Claude Code. Thariq, who works on Claude Code at Anthropic, said version 2.1.277 now supports <code>AGENTS.md</code>. Here is the simple rule. If a folder has no <code>CLAUDE.md</code>, Claude will look for <code>AGENTS.md</code> and use it. You can turn this on or off in <code>/config</code>. That sounds small. It is not. Many open-source coding agents already use <code>AGENTS.md</code> as a shared place for project instructions. Claude Code catching up means one file can guide more tools in the same repo.</p>
+<p>Thariq also explained the bigger plan. <code>AGENTS.md</code> support is built on Claude Code “mods.” Mods are Anthropic’s upcoming way to customize the Claude Code harness — the layer that wraps the model and steers how it works in your project. <code>AGENTS.md</code> is a built-in mod. Later, you will be able to build your own versions of project instructions. He also shared the mod’s source. So this is not only a checkbox. It is the start of a more open path for coding agents.</p>
+<p>Speed was the other loud story, and the star was Jev. Vercel CEO Guillermo Rauch said the adoption numbers and stories around Jev are “shocking.” Almost everyone seems to be trying it. He thinks the product is strong, but the moment also matters. Many builders feel AI is too expensive or too slow. So they are hungry for tools that let them put AI in more places. Vercel even made Jev free on its platform for the weekend.</p>
+<p>Box CEO Aaron Levie showed why enterprises might care. In a Box demo, Jev pulled an incident report, asked whether it was customer-facing and how severe it was, moved the file into escalate, monitor, or review folders, and wrote metadata with the result. All of that happened almost instantly and at almost no cost. Levie said this kind of split-second judgment — a quick decision in a workflow — can help with insurance claims, contracts, loan processing, and security reviews. FPV Ventures partner Nikunj Kothari added a playful proof: Jev scored 3,000 kids’ snacks with several criteria in 28 seconds for about $0.11. He also built Jevable, a site that collects fun Jev demos from X.</p>
+<p>Rauch had a second chart worth noticing. On Vercel’s AI Gateway, open models took about 78.4% of token volume that day, versus 21.6% for closed models. Spend told a different story, but Moonshot AI and DeepSeek still ranked high, and with Z.ai their combined spend passed OpenAI in that snapshot. He was careful: this is inference spend across providers, mostly in the US, not cash paid straight to open-weight labs. Still, it shows how hard the market is pushing for cheaper, open options.</p>
+<p>OpenAI also teed up a busy week ahead. Thibault Sottiaux, who works on Codex and ChatGPT, said he spent the day on a keynote with Romain Huet and Sam Altman. The hard part was not building the features. It was explaining “so much good stuff” in a short talk. Some pieces will ship next week so people do not wait for everything at once.</p>
+<p>Outside the big labs, personal agents kept looking more useful in daily life. AI tutor Peter Yang called Meta’s Muse the best personal agent he has tried. It helped him save over $800 a year on cable and phone bills. In one call, Muse negotiated another $288 in annual Comcast savings. His blunt line: most company support phone lines are not ready for agents yet.</p>
+<p>Put together, the day sat next to two pressures. One is shared rules for coding agents, such as <code>AGENTS.md</code>. The other is the volume of demand for faster, cheaper model calls — from free Jev weekends to open-model traffic on gateways. The models keep getting stronger. The winning products are the ones that make those models follow your rules and fit your latency budget.</p>
+<h3>Sentence Focus</h3>
+<p>Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md.<br/>
+- Starting today in version 2.1.277, / if there is no CLAUDE.md in a folder, / Claude will check for and use AGENTS.md.<br/>
+- “if there is no …” 是条件从句；主句用 “will check for and use” 表示找到就用。<br/>
+- 从今天起，在 2.1.277 版本里，如果文件夹里没有 CLAUDE.md，Claude 就会查找并使用 AGENTS.md。</p>
+<p>He thinks the product is strong, but this is also downstream of the “AI is too expensive/slow” zeitgeist.<br/>
+- He thinks the product is strong, / but this is also downstream of / the “AI is too expensive/slow” zeitgeist.<br/>
+- “downstream of” 表示「处在……之后、被其推动」；zeitgeist 指时代情绪/风气。<br/>
+- 他认为产品本身很强，但这股热潮也处在「AI 太贵/太慢」这股时代情绪的下游。</p>
+<p>That kind of split-second judgment sits next to the volume of demand for cheaper model calls.<br/>
+- That kind of split-second judgment / sits next to / the volume of demand / for cheaper model calls.<br/>
+- “sits next to” 表示两件事并排放在一起、形成对照；“volume of” 指体量，不是音量。<br/>
+- 这种分秒级判断，就挨着对更便宜模型调用的巨大需求。</p>]]></content:encoded>
+    </item>
+<item>
       <title>Claude Projects, family agents, and a flood of tiny software</title>
       <guid isPermaLink="false">english-reading-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 21:50:00 +0800</pubDate>
@@ -38,9 +69,7 @@
    - “sits next to” 表示两件事并排放在一起、形成对照；“volume of” 指体量/数量，不是声音大小。<br/>
    - 这种共享记忆，就挨着眼下正在大量部署的微型软件。</p>]]></content:encoded>
     </item>
-
-            
-        <item>
+<item>
       <title>One Claude for chat and real work</title>
       <guid isPermaLink="false">english-reading-2026-09-17</guid>
       <pubDate>Thu, 17 Sep 2026 21:40:00 +0800</pubDate>
