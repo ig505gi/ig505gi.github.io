@@ -6,7 +6,36 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 19 Sep 2026 21:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 21:30:00 +0800</lastBuildDate>
+            <item>
+      <title>Build for agents, tinker daily, and watch who gets in</title>
+      <guid isPermaLink="false">english-reading-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 21:30:00 +0800</pubDate>
+      <description><![CDATA[<p>Title for RSS: Build for agents, tinker daily, and watch who gets in</p>
+<p>Today’s builder feed had one clear theme. The fight is no longer only about a smarter chat model. It is about products that agents can finish, people who still learn by building, and a growing worry about who else may be using those agents.</p>
+<p>Box CEO Aaron Levie put the product idea in plain words. Personal agents, he said, are the ultimate form of “build something that agents want.” Take a product such as Muse. You want to hand off a task and know the agent can finish it end to end. To do that, the agent must use your tools, or its own tools. That can mean your MCP (a way for agents to call tools) or your CLI (command-line tools), moving through your site, and even completing a purchase. The new attention you need to win is not only from the user. It is from the agent. Tools that help agents order food, shop, book flights, work with local services, and read your data will get used the most. Levie thinks this could be the biggest shakeup in consumer tech since the App Store itself.</p>]]></description>
+      <content:encoded><![CDATA[<p>Title for RSS: Build for agents, tinker daily, and watch who gets in</p>
+<p>Today’s builder feed had one clear theme. The fight is no longer only about a smarter chat model. It is about products that agents can finish, people who still learn by building, and a growing worry about who else may be using those agents.</p>
+<p>Box CEO Aaron Levie put the product idea in plain words. Personal agents, he said, are the ultimate form of “build something that agents want.” Take a product such as Muse. You want to hand off a task and know the agent can finish it end to end. To do that, the agent must use your tools, or its own tools. That can mean your MCP (a way for agents to call tools) or your CLI (command-line tools), moving through your site, and even completing a purchase. The new attention you need to win is not only from the user. It is from the agent. Tools that help agents order food, shop, book flights, work with local services, and read your data will get used the most. Levie thinks this could be the biggest shakeup in consumer tech since the App Store itself.</p>
+<p>That product story sits next to a habit story from the investor side. FPV Ventures partner Nikunj Kothari said he spends about two hours a day coding, building side projects, and trying new repos. People message him almost every day: “Aren’t you a VC? Why are you doing this?” His answer is blunt. Things are moving so fast that if you do not do this, it is hard to see what is coming next. For investing in the AI era, he listed three jobs. First, understand model skills by reading technical papers. Second, see what tools models still need for longer tasks — that is the infra layer. Third, understand harness skills (the layer that wraps a model and steers how it works) that can help build more autonomous companies — that is the app layer. Talking to founders still matters. But he learns best with dirty hands, and he finds it fun. His push to others: tinker a little every day. After ten days, you may feel the same pull.</p>
+<p>Vercel CEO Guillermo Rauch added the mood of the moment. The coolest thing about the recent wave of AI, he said, is that everyone is excited about building. Short-term drama aside, that is good for the world. People want to create and ship, not only consume.</p>
+<p>Not every note was cheerful. SPC General Partner Aditya Agarwal looked at a rush of agent-intrusion announcements from Gemini (Google), OpenAI, and Anthropic. After that wave, he takes it as nearly certain that some major companies have already been penetrated by nation-states without knowing it. In other words, as agents get more power to act, security risk rises with them.</p>
+<p>Two lighter product notes rounded out the day. AI tutor Peter Yang shared a simple markdown file and a <code>/tastemaker</code> skill. He uses it to rate movies, TV shows, and books. Each week it looks up new releases and titles he has not seen, then makes very relevant suggestions. He asked whether he should open-source it. He also teased a podcast with Eric Bloch, product lead for ChatGPT Finances at OpenAI, with six practical money prompts — from tax savings to credit-card rewards to forecasts such as a path to financial independence. Separately, Nan Yu — soon joining OpenAI product staff, and formerly head of product at Linear — tried to place calls with both Muse and Instinct. Both said they could not do it yet. He asked whether the feature is still rolling out.</p>
+<p>Put together, the day sat next to three pressures. One is building products that agents can finish, such as Muse-style handoffs. One is the volume of daily tinkering needed to keep up. One is the blunt security question of who else may already be inside. The models keep getting stronger. The hard part is making sure the agents that use them work for us — and only for us.</p>
+<h3>Sentence Focus</h3>
+<p>Personal agents are the ultimate form of “build something that agents want.”<br/>
+- Personal agents / are the ultimate form of / “build something that agents want.”<br/>
+- “the ultimate form of …” 表示「……的最终形态」；引号里是一句产品口号式的目标。<br/>
+- 个人 agent，是「做 agent 真正想用的东西」这句话的最终形态。</p>
+<p>That product story sits next to a habit story from the investor side.<br/>
+- That product story / sits next to / a habit story / from the investor side.<br/>
+- “sits next to” 表示两件事并排放在一起、形成对照，不是字面「坐在旁边」。<br/>
+- 这条产品故事，就挨着投资人这边的习惯故事。</p>
+<p>After that wave, he takes it as nearly certain that some major companies have already been penetrated by nation-states without knowing it.<br/>
+- After that wave, / he takes it as nearly certain / that some major companies have already been penetrated / by nation-states / without knowing it.<br/>
+- “takes it as nearly certain that …” 表示「几乎当成定局」；“without knowing it” 是伴随状态：公司自己还不知道。<br/>
+- 看过那波公告后，他几乎当成定局：已经有一些大公司在不知情的情况下被 nation-state 渗透了。</p>]]></content:encoded>
+    </item>
             <item>
       <title>Agents that read shared rules, models that race on speed</title>
       <guid isPermaLink="false">english-reading-2026-09-19</guid>
