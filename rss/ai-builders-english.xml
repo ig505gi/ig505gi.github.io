@@ -6,8 +6,39 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 20 Sep 2026 21:30:00 +0800</lastBuildDate>
-            <item>
+    <lastBuildDate>Mon, 21 Sep 2026 22:05:00 +0800</lastBuildDate>
+                <item>
+      <title>Personal agents race, agent QA grind, and banking the AIs</title>
+      <guid isPermaLink="false">english-reading-2026-09-21</guid>
+      <pubDate>Mon, 21 Sep 2026 22:05:00 +0800</pubDate>
+      <description><![CDATA[<p>Title for RSS: Personal agents race, agent QA grind, and banking the AIs</p>
+<p>Today’s builder notes pointed one way. The race is not only about a smarter chat box. It is about who owns your personal agent, how hard agents will grind on software quality, and what happens when those agents need their own money.</p>
+<p>AI tutor Peter Yang shared his view of the personal agent race. He thinks Meta’s Muse may become the category leader. The app feels simple, and Meta pushes it hard across its products. Once you use Muse, he said, it makes little sense for an agent to live only inside an old chat app such as iMessage. Unless Meta runs out of compute (server power for AI), Muse could become the company’s most successful homegrown app after Facebook, and much bigger than Threads.</p>]]></description>
+      <content:encoded><![CDATA[<p>Title for RSS: Personal agents race, agent QA grind, and banking the AIs</p>
+<p>Today’s builder notes pointed one way. The race is not only about a smarter chat box. It is about who owns your personal agent, how hard agents will grind on software quality, and what happens when those agents need their own money.</p>
+<p>AI tutor Peter Yang shared his view of the personal agent race. He thinks Meta’s Muse may become the category leader. The app feels simple, and Meta pushes it hard across its products. Once you use Muse, he said, it makes little sense for an agent to live only inside an old chat app such as iMessage. Unless Meta runs out of compute (server power for AI), Muse could become the company’s most successful homegrown app after Facebook, and much bigger than Threads.</p>
+<p>ChatGPT may still lead because it already has more than one billion users. OpenAI’s models, computer use (letting the AI drive a computer), and voice often look stronger feature by feature. But it is hard to build one product for both work and personal life. Even for work, Yang started using Grok Bot, because the Work and Codex split still feels too confusing. Grok Bot focuses on work. His bull case (hopeful view) is that it is only a few features away from becoming multiplayer agentic Slack — a place where both bots and humans work together.</p>
+<p>Google is the dark horse. Personal agents live off Gmail, Calendar, and other Google data, but Spark still sat as a secondary tab inside Gemini last he checked. On multiplayer, nobody has solved it yet. You cannot easily add a spouse to Muse or loop coworkers into ChatGPT or Grok Bot threads. Today, multiplayer mostly means tagging bots in Slack. Yang warned people to design skills and files so they are easy to move between harnesses (the wrap that steers an agent) and agents. In a follow-up, he named Apple and Siri. They have the devices and a strong privacy story. What holds them back is a slow yearly cycle for big updates and weak listening on platforms such as X. From the outside, Siri’s speed feels too slow to compete.</p>
+<p>Vercel CEO Guillermo Rauch showed the shipping side. The thoroughness with which agents can test and QA software is hard for humans to match. He pointed out a render bug in a mobile in-app browser. The agent went deep to reproduce, simulate, fix, deploy, and verify. It even made an ephemeral Vercel deployment (a short-lived test site) and threw it at an iPhone simulator. Humans would run out of energy. They would guess. They would hope it worked. Software of the future, he said, may reach a quality we have never seen. A lighter note came from OpenClaw builder Peter Steinberger: your claw can now FaceTime you.</p>
+<p>The money layer sat next to those product fights. On No Priors, Coinbase CEO Brian Armstrong talked about Agentic Finance, also called AIFi. He does not want AIs to be “unbanked.” About 76% of the agent ecommerce payments they see are under 30 cents. Card rails often charge about 30 cents as a flat fee. Paying 30 cents to send a one-cent payment does not make sense. Coinbase built tools so an agent can get its own account with a single prompt, using a self-custodial wallet (the agent holds the keys) and crypto rails. Coinbase also incubated the X402 payment protocol and put it into the Linux Foundation; Google, Cloudflare, and AWS are working with them.</p>
+<p>Inside Coinbase, Armstrong described a “company brain” of incidents, controls, tests, and pull-request history. When an agent changes a service, it reads that brain. When a human fixes a miss, the fix must go back into the brain so future runs improve. Their internal harness is called Toshi. He spun up ten agents in parallel for phase one of a feature; minutes later they were ready for review. He thinks tasks will shrink more than headcount. Existing teams will get more done.</p>
+<p>Put together, the day sat next to three pressures. One is the volume of competition for the personal agent that lives with you every day. One is the blunt QA grind agents will bring to software. One is the simple need to bank the AIs, even if the payment is only a few cents. The hard part is choosing which agent sits next to your life — and giving it rails that actually work.</p>
+<h3>Sentence Focus</h3>
+<p>Unless Meta runs out of compute, Muse could become the company’s most successful homegrown app after Facebook.<br/>
+- Unless Meta runs out of compute, / Muse could become / the company’s most successful homegrown app / after Facebook.<br/>
+- “Unless …” 表示「除非……否则……」；这里把算力瓶颈当成唯一大例外。<br/>
+- 除非 Meta 算力不够用，否则 Muse 有可能成为该公司在 Facebook 之后最成功的自研 App。</p>
+<p>The thoroughness with which agents can test and QA software is hard for humans to match.<br/>
+- The thoroughness / with which agents can test and QA software / is hard for humans to match.<br/>
+- “the thoroughness with which …” 是相对从句挂在抽象名词上，表示「……的那种彻底程度」。<br/>
+- Agent 测试和 QA 软件时那种彻底程度，人类很难跟上。</p>
+<p>He does not want AIs to be “unbanked.”<br/>
+- He does not want / AIs to be / “unbanked.”<br/>
+- “unbanked” 本指没有银行账户的人；这里直接套到 AI 上，语气很 blunt。<br/>
+- 他不想让 AI「没银行」、开不了户。</p>]]></content:encoded>
+    </item>
+
+<item>
       <title>Build for agents, tinker daily, and watch who gets in</title>
       <guid isPermaLink="false">english-reading-2026-09-20</guid>
       <pubDate>Sun, 20 Sep 2026 21:30:00 +0800</pubDate>
