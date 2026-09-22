@@ -6,7 +6,36 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 21 Sep 2026 22:05:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 21:53:00 +0800</lastBuildDate>
+    <item>
+      <title>Agents spend money, ads lose eyes, and Claude drives Chrome</title>
+      <guid isPermaLink="false">english-reading-2026-09-22</guid>
+      <pubDate>Tue, 22 Sep 2026 21:53:00 +0800</pubDate>
+      <description><![CDATA[<p>Title for RSS: Agents spend money, ads lose eyes, and Claude drives Chrome</p>
+<p>Today’s builder notes pointed one way. Agents (software that can act for you) are not only chatting. They are starting to spend money, skip human eyes on web pages, and drive a real browser with fewer clicks from you.</p>
+<p>Box CEO Aaron Levie made the money case. Personal agents that can finish hard tasks end to end will carry a lot of commerce. You start with small annoying jobs. Then you give the agent bigger jobs. When buying is easier, people often spend more, not less. That helps the agent makers. It also opens space for new layers that agents want to use — shops, local services, and B2B tools. In a second post, Levie said agents will use software far more than people ever did — even about 100 times more. Interfaces may fade into the background. But the core systems still matter more, not less. Agents can take destructive actions. They also need safe data and clear business logic. Platforms that act as a security layer, hold data for both agents and people, and run workflows have a big chance right now.</p>]]></description>
+      <content:encoded><![CDATA[<p>Title for RSS: Agents spend money, ads lose eyes, and Claude drives Chrome</p>
+<p>Today’s builder notes pointed one way. Agents (software that can act for you) are not only chatting. They are starting to spend money, skip human eyes on web pages, and drive a real browser with fewer clicks from you.</p>
+<p>Box CEO Aaron Levie made the money case. Personal agents that can finish hard tasks end to end will carry a lot of commerce. You start with small annoying jobs. Then you give the agent bigger jobs. When buying is easier, people often spend more, not less. That helps the agent makers. It also opens space for new layers that agents want to use — shops, local services, and B2B tools. In a second post, Levie said agents will use software far more than people ever did — even about 100 times more. Interfaces may fade into the background. But the core systems still matter more, not less. Agents can take destructive actions. They also need safe data and clear business logic. Platforms that act as a security layer, hold data for both agents and people, and run workflows have a big chance right now.</p>
+<p>AI tutor Peter Yang sat next to that commerce story with a blunt ad-market warning. If a big part of your business is showing targeted display ads to humans, what happens when agents browse your site and finish the job without a human seeing the ads at all? He thinks the industry is in for a rude awakening. On a lighter note, he talked with Ethan, product lead for ChatGPT Finances. Ethan said ChatGPT caught a hotel charge after a points booking, worked with customer service, and got him reimbursed. Yang had a similar case: he asked ChatGPT to cancel a hotel for his parents, watch the replies, and keep following up until the money came back. He also said he no longer lives in email or text. He lives in chat with his agents.</p>
+<p>The browser layer got a major push from Anthropic. Claude Blog said Claude in Chrome is now generally available on every paid Claude plan. Claude can take more actions on its own in the browser, instead of asking for approval every time. A safety classifier checks each action before it runs, to make sure it is safe and matches what you asked. Many tools already connect to Claude. Many others do not — internal dashboards, old systems, vendor portals. Claude in Chrome can see the page you are on and do things such as reading text, typing, clicking, moving between pages, and filling forms, using your existing logins. Anthropic spent the pilot year fighting prompt injection: hidden instructions in a page, email, or form that try to trick an agent into doing something you never asked for. Their stack now includes training against a growing attack library, probes that screen tool results, and classifiers that block actions that do not match your request. On their hard red-team tests, with probes plus the safety classifier, they report no successful attacks against Claude Sonnet 5 or Opus 5, and a 0.3% success rate against Fable 5 in low-severity cases. To start, install it from the Chrome Web Store. Enterprise admins can limit it to approved domains.</p>
+<p>Coding agents also stayed busy. FPV Ventures partner Nikunj Kothari said Instinct and Muse are strong for browser use on the phone, with almost zero setup for regular people. But for deep computer-use work on a Mac, he still puts Codex first. Y Combinator CEO Garry Tan said Capy AI tracks multi-step work and ships large pull requests faster than Codex or Claude Code alone for him this week. Vercel CEO Guillermo Rauch noted that you can now use Jev over HTTP in AI Gateway, next to their type-safe AI SDK API. OpenAI’s Thibault Sottiaux teased that a Tuesday reset is almost here, “among some other things.”</p>
+<p>Put together, the day sat next to three pressures. One is the volume of commerce that may flow through personal agents. One is the blunt risk that ads lose human eyes when agents browse instead. One is browser agents that can act alone, but only if safety checks keep up. The hard part is building for the agent that sits next to your day — and for the money and pages it will touch.</p>
+<h3>Sentence Focus</h3>
+<p>If a huge part of your business is showing targeted display ads to humans, what happens when agents browse your website and get the job done without a human seeing your ads at all?<br/>
+- If a huge part of your business / is showing targeted display ads to humans, / what happens when agents browse your website / and get the job done / without a human seeing your ads at all?<br/>
+- “what happens when …” 用来抛出一个 blunt 的后果问题；“without a human seeing …” 是伴随状态。<br/>
+- 如果你业务很大一块是给人看定向展示广告，那当 agent 自己浏览网站、把事办完、却没有人看到广告时，会发生什么？</p>
+<p>You’ll start by slinging your daily simple and annoying tasks at the agent.<br/>
+- You’ll start by / slinging your daily simple and annoying tasks / at the agent.<br/>
+- “start by doing …” 表示从某一步开始；“slinging … at” 是口语化的「甩给」。<br/>
+- 你会先从把每天又简单又烦人的事甩给 agent 开始。</p>
+<p>That product story sits next to a commerce story with a blunt ad-market warning.<br/>
+- That product story / sits next to / a commerce story / with a blunt ad-market warning.<br/>
+- “sits next to” 表示两条线并置对照，不是字面「坐旁边」；“blunt” 指话说得很直。<br/>
+- 这条产品故事，就挨着一条带直白广告警告的商业故事。</p>]]></content:encoded>
+    </item>
+
                 <item>
       <title>Personal agents race, agent QA grind, and banking the AIs</title>
       <guid isPermaLink="false">english-reading-2026-09-21</guid>
