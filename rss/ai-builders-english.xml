@@ -6,7 +6,36 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 22 Sep 2026 21:53:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:56:00 +0800</lastBuildDate>
+    <item>
+      <title>Price cuts land, Opus 5.5 ships, and Sol joins the race</title>
+      <guid isPermaLink="false">english-reading-2026-09-23</guid>
+      <pubDate>Wed, 23 Sep 2026 21:56:00 +0800</pubDate>
+      <description><![CDATA[<p>Title for RSS: Price cuts land, Opus 5.5 ships, and Sol joins the race</p>
+<p>Today’s builder notes pointed one way. Frontier models (the strongest AI systems) got cheaper. New names shipped. And builders showed what happens when those models meet real work.</p>
+<p>OpenAI’s Thibault Sottiaux said GPT-6 Sol and Luna are out. He called them a clear step up across the board, especially in writing and that “you know when you try it” feel. OpenAI also cut API prices by 50% for good. That makes the models useful for more jobs, and it stretches what you get on a subscription. Plus, Pro, and Business accounts also got a banked reset (saved usage put back into the account). In a second note, he said the team has been chasing efficiency and “intelligence for all.” Strong top models, he argued, are what let you lift everything else.</p>]]></description>
+      <content:encoded><![CDATA[<p>Title for RSS: Price cuts land, Opus 5.5 ships, and Sol joins the race</p>
+<p>Today’s builder notes pointed one way. Frontier models (the strongest AI systems) got cheaper. New names shipped. And builders showed what happens when those models meet real work.</p>
+<p>OpenAI’s Thibault Sottiaux said GPT-6 Sol and Luna are out. He called them a clear step up across the board, especially in writing and that “you know when you try it” feel. OpenAI also cut API prices by 50% for good. That makes the models useful for more jobs, and it stretches what you get on a subscription. Plus, Pro, and Business accounts also got a banked reset (saved usage put back into the account). In a second note, he said the team has been chasing efficiency and “intelligence for all.” Strong top models, he argued, are what let you lift everything else.</p>
+<p>Anthropic pushed Opus 5.5 into daily life at the same time. Cat Wu said Opus 5.5 is now the default in Claude Code and the Claude app, including Cowork, for Pro, Max, and Team. The default effort is medium. She says that is close to Fable 5.1 on intelligence, but faster. Rate limits go about 25% further than on Opus 5. Claude Code engineer Boris Cherny has used Opus 5.5 as his daily driver for weeks. He and the team had Opus 5.5 and Fable 5.1 port HAProxy from C to Rust. Both almost passed the full test suite. Opus finished in about 9.5 hours, against Fable’s 12, and cost about 51% less. Then he went further. With a few short prompts, he used Opus 5.5 and Lean (a tool for proving code is correct) to check the Claude Agent SDK. That led to 16 pull requests that fixed bugs and race conditions. He sometimes mixes Lean with TLA+ for data flow, concurrency, and state. He does not know either language well. Claude does. He asked if formal verification might be the future of finding bugs.</p>
+<p>Box CEO Aaron Levie called it an insane day in AI. First came Opus 5.5 price cuts. Then Sol and Luna cut token prices in half. He said the drop in cost per task is unlike any other technology. Each time AI gets cheaper, the jobs you can give agents get bigger. He called that Jevons paradox for agents: when something gets cheaper, people use more of it, not less. Inside Box, their agent tests on hard enterprise tasks with messy data showed big gains over Opus 5: about 63% fewer tokens, 42% less wordiness, and 30% more speed, on top of a cheaper model. Wins showed up in finance, cloud cost work, client analysis, and clinical data. Customers will soon build agents with Opus 5.5 in Box AI Studio.</p>
+<p>The scoreboard also moved. Vercel CEO Guillermo Rauch shared fresh Next.js evals. Opus 5.5, GPT-6 Sol, and Fable 5.1 all sat near 97%. Grok 4.7 was about 94%, but 2x to 7x cheaper. Anthropic Research’s Alex Albert used Opus 5.5 in Blender to rebuild San Francisco’s Market Street as it looked the day before the 1906 earthquake, from maps, film, and old photos, then into a short street video. OpenClaw builder Peter Steinberger said Astra found a roughly 14-year-old bug in libuv after ChatGPT started crashing on macOS 27. Claude Code’s Thariq added a blunt product note: stronger models should not mean shipping ten times more features. They should mean more time with users, more prototypes, and shipping things that actually work.</p>
+<p>Put together, the day sat next to three pressures. One is the volume of work that suddenly looks affordable when token prices fall. One is the blunt race between Sol, Luna, Opus 5.5, and the rest. One is builders who use those models to prove code, port systems, and rebuild whole streets. The hard part is choosing which model sits next to your workflow — and what you dare ask it to do next.</p>
+<h3>Sentence Focus</h3>
+<p>The drop in cost per task is unlike any other technology.<br/>
+- The drop in cost per task / is unlike / any other technology.<br/>
+- “unlike …” 用来做直白对比；主语是「单次任务成本下降」这件事本身。<br/>
+- 单次任务成本下降的速度，和任何其他技术都不一样。</p>
+<p>Each time AI gets cheaper, the jobs you can give agents get bigger.<br/>
+- Each time AI gets cheaper, / the jobs / you can give agents / get bigger.<br/>
+- “Each time …” 表示每次条件成立就发生；中间夹了相对从句 “you can give agents”。<br/>
+- 每次 AI 变便宜，你能交给 agent 的工作就会变大。</p>
+<p>Stronger models should not mean shipping ten times more features.<br/>
+- Stronger models / should not mean / shipping ten times more features.<br/>
+- “should not mean …” 是 blunt 的价值判断：能力变强，不等于该这样做。<br/>
+- 更强的模型，不该意味着往外塞十倍功能。</p>]]></content:encoded>
+    </item>
+
     <item>
       <title>Agents spend money, ads lose eyes, and Claude drives Chrome</title>
       <guid isPermaLink="false">english-reading-2026-09-22</guid>
