@@ -6,8 +6,38 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 23 Sep 2026 21:56:00 +0800</lastBuildDate>
-    <item>
+    <lastBuildDate>Thu, 24 Sep 2026 21:43:00 +0800</lastBuildDate>
+        <item>
+      <title>Blast radius, agent parts, and what agents are for</title>
+      <guid isPermaLink="false">english-reading-2026-09-24</guid>
+      <pubDate>Thu, 24 Sep 2026 21:43:00 +0800</pubDate>
+      <description><![CDATA[<p>Title for RSS: Blast radius, agent parts, and what agents are for</p>
+<p>Today’s builder notes pointed one way. Agents (software that can act for you) are getting more power. So the hard questions moved forward. How do you limit damage when something goes wrong? How do you split an agent into parts you can run in the cloud? And what should those agents even be for?</p>
+<p>Anthropic Engineering put the safety story in plain words. Twelve months ago, they would have rejected giving Claude enough access to take down an internal Anthropic service. Today that level of access is normal, and their developers move faster because of it. Risk has two parts: how likely a failure is, and how much damage one could do. The second part is the blast radius — the size of the mess if things go wrong. As agents do work that once needed a person or a team, the cost of not deploying grows large. So the engineering job becomes how to cap that blast radius.</p>]]></description>
+      <content:encoded><![CDATA[<p>Title for RSS: Blast radius, agent parts, and what agents are for</p>
+<p>Today’s builder notes pointed one way. Agents (software that can act for you) are getting more power. So the hard questions moved forward. How do you limit damage when something goes wrong? How do you split an agent into parts you can run in the cloud? And what should those agents even be for?</p>
+<p>Anthropic Engineering put the safety story in plain words. Twelve months ago, they would have rejected giving Claude enough access to take down an internal Anthropic service. Today that level of access is normal, and their developers move faster because of it. Risk has two parts: how likely a failure is, and how much damage one could do. The second part is the blast radius — the size of the mess if things go wrong. As agents do work that once needed a person or a team, the cost of not deploying grows large. So the engineering job becomes how to cap that blast radius.</p>
+<p>One path is human approval on every step. Claude Code used to ask for permission each turn. In theory that works. In practice, telemetry (usage data) showed users approved about 93% of prompts. The more approvals people see, the less carefully they read each one. Anthropic now leans harder on containment: sandboxes, virtual machines, and egress controls that limit what the agent can reach. A model called Claude Mythos Preview was judged too risky to ship in April 2026, even though similar capability may ship later as defenses get stronger.</p>
+<p>That same split of “brain and hands” showed up in product design. Anthropic’s Managed Agents post says harnesses (the wrap that steers a model) go stale as models improve. Old fixes, such as context resets for “context anxiety,” can become dead weight on a stronger model. So they virtualized three parts: a session log, a harness, and a sandbox. Each can change without breaking the others. Vercel CEO Guillermo Rauch made a similar map for successful agents: brain (model plus harness), hands (tools, computer, browser), and files (memories, skills, repos). On a Mac Mini you can keep everything in one place. In the cloud, you break them apart to cut cost and improve security. Today Vercel added Drives — storage you can attach like an external disk — so a night job can tidy memories without booting the full agent computer.</p>
+<p>On the product surface, Claude launched Marketplace. You can find connectors such as Slack and Notion, buy agents and tools from companies such as Cursor and CrowdStrike, and scale with partners such as Accenture and Deloitte. Claude Code’s Boris Cherny also shared how Claude speeds bug finding: it builds a model of a tricky state machine, finds counter-examples, reproduces the bugs, then fixes them. It is not full formal verification of a whole codebase yet. It is focused checking of the hairiest parts. OpenAI’s Thibault Sottiaux pointed ahead to DevDay next Tuesday, and said voice ChatGPT already runs across plugins for work, mail, coding, and calendar.</p>
+<p>Builders also argued about purpose. Meta’s Madhu Guru disagreed with Ben Thompson on consumer agents. People do not have one relationship with “doing things.” Browsing clothes can be fun. Hiring a roofer is usually miserable. For high-friction jobs, demand for agents that remove the pain is huge. Cursor designer Ryo Lu warned from the other side: the danger is not that AI makes us lazy. The danger is that it makes us endlessly busy — infinite output before we have taste or intention. Y Combinator’s Garry Tan put the business version in two lines: make software agents want, and use agents to make people want software.</p>
+<p>Put together, the day sat next to three pressures. One is the blast radius of agents with real access. One is the volume of work that becomes cheaper when brain, hands, and files can run apart. One is the blunt question of what all that speed is for. The hard part is building agents that sit next to your life — and still leave room to think.</p>
+<h3>Sentence Focus</h3>
+<p>The engineering question becomes how to cap the blast radius.<br/>
+- The engineering question / becomes / how to cap the blast radius.<br/>
+- “becomes how to …” 把抽象问题落成一个要解决的动作；blast radius 后文已用 plain words 解释过。<br/>
+- 工程上的问题，变成了如何给爆炸半径设上限。</p>
+<p>The more approvals a user sees, the less carefully they read each one.<br/>
+- The more approvals a user sees, / the less carefully / they read each one.<br/>
+- “the more …, the less …” 是成对比较结构，表示一边增加、另一边下降。<br/>
+- 用户看到的批准提示越多，每一条就越不会认真看。</p>
+<p>The danger is not that AI makes us lazy. The danger is that it makes us endlessly busy.<br/>
+- The danger is not that … / The danger is that …<br/>
+- “not that … / that …” 是 blunt 的对照：先否定常见担心，再给出真正担心。<br/>
+- 危险不是 AI 让人变懒。危险是它让人永远忙碌。</p>]]></content:encoded>
+    </item>
+
+<item>
       <title>Price cuts land, Opus 5.5 ships, and Sol joins the race</title>
       <guid isPermaLink="false">english-reading-2026-09-23</guid>
       <pubDate>Wed, 23 Sep 2026 21:56:00 +0800</pubDate>
