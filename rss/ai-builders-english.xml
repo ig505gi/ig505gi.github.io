@@ -6,7 +6,36 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 24 Sep 2026 21:43:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:28:00 +0800</lastBuildDate>
+    <item>
+      <title>Spend shifts, a hidden $30B layer, and Claude for small shops</title>
+      <guid isPermaLink="false">english-reading-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 21:28:00 +0800</pubDate>
+      <description><![CDATA[<p>Title for RSS: Spend shifts, a hidden $30B layer, and Claude for small shops</p>
+<p>Today’s builder notes pointed one way. Money moved between AI labs. A quiet software layer fed the GPUs. And tools for small businesses and developers got more practical.</p>
+<p>Vercel CEO Guillermo Rauch shared fresh spend data from Vercel AI Gateway over the last two months. Anthropic is still number one in spend, but its share fell from about 69% to 40%. OpenAI rose from about 10% to 24%. OpenAI now also leads in token count. Rauch said GPT-6 Astra and GPT 5.6 Sol are “ripping,” and OpenAI handles about 62% of image generations on the gateway. Open models took about half of Anthropic’s lost share, led by names such as Kimi K3 and DeepSeek. Anthropic’s Opus 5.5 climbed to about 10% of spend in only two days. The blunt picture is not that one lab won forever. It is that builders are spreading spend across closed and open models as prices and quality keep changing.</p>]]></description>
+      <content:encoded><![CDATA[<p>Title for RSS: Spend shifts, a hidden $30B layer, and Claude for small shops</p>
+<p>Today’s builder notes pointed one way. Money moved between AI labs. A quiet software layer fed the GPUs. And tools for small businesses and developers got more practical.</p>
+<p>Vercel CEO Guillermo Rauch shared fresh spend data from Vercel AI Gateway over the last two months. Anthropic is still number one in spend, but its share fell from about 69% to 40%. OpenAI rose from about 10% to 24%. OpenAI now also leads in token count. Rauch said GPT-6 Astra and GPT 5.6 Sol are “ripping,” and OpenAI handles about 62% of image generations on the gateway. Open models took about half of Anthropic’s lost share, led by names such as Kimi K3 and DeepSeek. Anthropic’s Opus 5.5 climbed to about 10% of spend in only two days. The blunt picture is not that one lab won forever. It is that builders are spreading spend across closed and open models as prices and quality keep changing.</p>
+<p>That same day, FirstMark VC Matt Turck sat next to a less famous layer of the stack. In Jensen’s five-layer cake for AI — energy, chips, infrastructure, models, applications — the middle software part is poorly understood. That is where VAST Data grew into a company valued near $30 billion. It powers players such as xAI, CoreWeave, Nebius, and Mistral. On The MAD Podcast, VAST CEO Renen Hallak said his company sits in that middle layer. He sometimes calls it software infrastructure, and sometimes the operating system for this new era. Hallak shared one customer story that sticks: an AI cloud first planned about 500 petabytes over three years, then came back asking for an extra two exabytes on top. “Sometimes it scares me,” he said. He also used a simple picture for how agents will learn: “We infer during the day, fine-tune at night.” In plain words, systems use data while they work, then update themselves later so they get a little smarter for tomorrow.</p>
+<p>On the product surface, Claude Blog said Claude for Small Business now ships 43 workflows and 27 new integrations. The list includes tools many owners already use, such as Shopify, Salesforce, TikTok, Zoom, Square, Stripe, and Zapier. The product has been installed more than 900,000 times since May. After a spring tour of more than 1,000 owners in 10 cities, about a third asked for help growing the business — leads, inbound replies, and proposals — not only back-office work. One founder said work that used to take 120 hours now takes five minutes. Another said Claude helped him make about $20,000 in proposals over a month and a half.</p>
+<p>Developers got smaller but useful notes too. Claude Code’s Thariq said many people plan themselves and do not need plan mode. Others like a mode where Claude only thinks and brainstorms with them. His plan is to turn plan mode into a built-in mod, and let mods add new modes or rebind Shift+Tab. Replit CEO Amjad Masad said Muse can now make apps on Replit. Latent Space’s Shawn Wang said his “Scaling without Slop” bet is working: the first 100k YouTube subscribers took three years, and the next 100k took about 1.2 months. OpenClaw builder Peter Steinberger gave a blunt agent tip: if you only tell an agent to clean up, it stops too early. Give it an ambitious goal, such as removing 20% of the least useful tests while keeping code coverage within 2%.</p>
+<p>Put together, the day sat next to three pressures. One is the volume of spend moving between Anthropic, OpenAI, and open models. One is the hidden software layer that must feed GPUs at crazy scale. One is tools that sit next to real work for small shops and coding agents. The hard part is choosing which stack you trust — and what you dare ask it to do next.</p>
+<h3>Sentence Focus</h3>
+<p>Anthropic is still number one in spend, but its share fell from about 69% to 40%.<br/>
+- Anthropic is still number one in spend, / but its share fell / from about 69% to 40%.<br/>
+- “still … but …” 先承认现状，再用 but 给出真正变化；from A to B 标出幅度。<br/>
+- Anthropic 在支出上仍是第一，但它的份额从大约 69% 降到了 40%。</p>
+<p>That is where VAST Data grew into a company valued near $30 billion.<br/>
+- That is where / VAST Data grew into / a company valued near $30 billion.<br/>
+- “That is where …” 用地点/层次把前文的 middle layer 落到一家公司；valued near 是“估值接近”。<br/>
+- 正是在这一层，VAST Data 成长为一家估值接近 300 亿美元的公司。</p>
+<p>If you only tell an agent to clean up, it stops too early.<br/>
+- If you only tell an agent to clean up, / it stops too early.<br/>
+- “If you only …” 是条件句里的 blunt 提醒：只给弱目标，就会提前停住。<br/>
+- 如果你只让 agent 做清理，它会停得太早。</p>]]></content:encoded>
+    </item>
+
         <item>
       <title>Blast radius, agent parts, and what agents are for</title>
       <guid isPermaLink="false">english-reading-2026-09-24</guid>
