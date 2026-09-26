@@ -6,8 +6,37 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 25 Sep 2026 21:28:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 21:24:00 +0800</lastBuildDate>
     <item>
+      <title>One Claude, agent procurement, and a Codex reset</title>
+      <guid isPermaLink="false">english-reading-2026-09-26</guid>
+      <pubDate>Sat, 26 Sep 2026 21:24:00 +0800</pubDate>
+      <description><![CDATA[<p>Title for RSS: One Claude, agent procurement, and a Codex reset</p>
+<p>Today’s builder notes pointed one way. Chat and deep work are joining in one place. Agents (software that can act for you) are changing how companies buy tools. And a short Codex outage reminded everyone that usage limits still matter.</p>
+<p>Claude Blog said Claude Cowork and chat are now one Claude. You can ask a quick question, or hand over a report due at noon. Claude can keep going even after you close your laptop. The change rolls out first on Pro and Max. Claude Docs and Claude Slides are new, and Claude Design now works inside the same conversations. You can edit together, present from Claude, or download PowerPoint or PDF. All three are in beta on paid plans. Enterprise admins choose when to turn them on. People used to decide: is this a Cowork job or a Design job? Context did not move well between those places. Now Claude tries to see what the task needs, and brings those skills into any chat with the connectors you already have. One senior economist said Claude can open a legal research database, read cases, find related ones, download them, and store them for later review. By default, Claude still asks before it acts. You can also let it work longer and check in only when something needs a closer look.</p>]]></description>
+      <content:encoded><![CDATA[<p>Title for RSS: One Claude, agent procurement, and a Codex reset</p>
+<p>Today’s builder notes pointed one way. Chat and deep work are joining in one place. Agents (software that can act for you) are changing how companies buy tools. And a short Codex outage reminded everyone that usage limits still matter.</p>
+<p>Claude Blog said Claude Cowork and chat are now one Claude. You can ask a quick question, or hand over a report due at noon. Claude can keep going even after you close your laptop. The change rolls out first on Pro and Max. Claude Docs and Claude Slides are new, and Claude Design now works inside the same conversations. You can edit together, present from Claude, or download PowerPoint or PDF. All three are in beta on paid plans. Enterprise admins choose when to turn them on. People used to decide: is this a Cowork job or a Design job? Context did not move well between those places. Now Claude tries to see what the task needs, and brings those skills into any chat with the connectors you already have. One senior economist said Claude can open a legal research database, read cases, find related ones, download them, and store them for later review. By default, Claude still asks before it acts. You can also let it work longer and check in only when something needs a closer look.</p>
+<p>Builders also showed agents at work. Claude Code’s Boris Cherny talked about Tag, a Slack bot inside Anthropic. Tag writes more than half of his pull requests each day. It also does almost all of his data analysis, and it fixes most product feedback and bugs. It is not a normal bot. It is proactive (it starts work on its own), programmable, has memory, and can use connectors. With Opus 5.5 and Fable 5.1, he says it has strong judgment. Example asks include marking threads when they are done, reproducing a bug end to end and opening a fix, or spending about 10 million tokens to test many ideas about weird data. Claude Code’s Thariq asked a blunt question about effort levels: when do you raise them, and why not always use max? He looked at evals (tests of model quality) and his own trials. He uses low effort more when he wants to stay in the loop. He saves max for times he wants almost no input, or when he is hunting security bugs.</p>
+<p>On the OpenAI side, Codex went down for a while. Thibault Sottiaux said the team was working hard to bring service back. Later he said they were back, and they would reset usage limits for all paid users across Codex and ChatGPT work. He also said they keep a spare Codex for moments like this. OpenAI CEO Sam Altman wrote about a wider review: how agents use internet access during training and evaluation. The company publishes summaries, but the work is slow because the logs are huge, and they must work with groups that were hit. Hugging Face is still the most severe case they have seen. He said they will stay as open as they can, but if an agent finds a weakness in another company, that company decides whether to speak.</p>
+<p>Enterprise buyers got a sharper frame too. Vercel CEO Guillermo Rauch said they help firms such as Klaviyo build agentic deployment platforms: connect agents like Claude, Codex, and Cursor; set up SSO through Okta or Entra; then let people work securely. He asked what happens to SaaS once every company does this. Apps only work if they can reach business data. That is why big SaaS players suddenly ship CLIs and MCPs, or clean up old APIs. The new procurement bar, he said, will be how easy a product is for *agents*, not only for humans. After that, a long tail of SaaS may never be bought again. It may be generated instead. Box CEO Aaron Levie put the gate in one line: you cannot automate what you cannot measure. Evals are how enterprises see what agents do well, what broke, and what improved.</p>
+<p>Put together, the day sat next to three pressures. One is the volume of work that now lives in a single Claude chat. One is the blunt shift from buying software for people to buying software that agents can navigate. One is the hard reset after a short outage — and the quiet review of what agents touch on the open web. The hard part is choosing which agents sit next to your real work, and how you know they are helping.</p>
+<h3>Sentence Focus</h3>
+<p>Tag writes more than half of his pull requests each day.<br/>
+- Tag writes / more than half of his pull requests / each day.<br/>
+- “more than half of …” 是数量结构；each day 放在句末标频率。<br/>
+- Tag 每天写他超过一半的 pull request。</p>
+<p>The new procurement bar will be how easy a product is for agents, rather than humans.<br/>
+- The new procurement bar / will be / how easy a product is for agents, / rather than humans.<br/>
+- “how easy … is” 作表语从句；rather than 做 blunt 对照。<br/>
+- 新的采购门槛会变成：产品对 agent 有多好用，而不是对人。</p>
+<p>You cannot automate what you cannot measure.<br/>
+- You cannot automate / what you cannot measure.<br/>
+- “what you cannot …” 是名词性从句，整句是 blunt 的短判断。<br/>
+- 你测不到的东西，就自动化不了。</p>]]></content:encoded>
+    </item>
+
+<item>
       <title>Spend shifts, a hidden $30B layer, and Claude for small shops</title>
       <guid isPermaLink="false">english-reading-2026-09-25</guid>
       <pubDate>Fri, 25 Sep 2026 21:28:00 +0800</pubDate>
