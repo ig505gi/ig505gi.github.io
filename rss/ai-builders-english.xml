@@ -6,7 +6,57 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 26 Sep 2026 21:24:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 21:19:00 +0800</lastBuildDate>
+    <item>
+      <title>Resets land, AI slop, and why diffusion may win inference</title>
+      <guid isPermaLink="false">english-reading-2026-09-27</guid>
+      <pubDate>Sun, 27 Sep 2026 21:19:00 +0800</pubDate>
+      <description><![CDATA[<p>Title for RSS: Resets land, AI slop, and why diffusion may win inference</p>
+<p>Today’s builder notes pointed one way. Usage limits came back. People pushed back on low-quality AI text. And one founder argued that a different model design may win when speed at answer time matters most.</p>
+<p>OpenAI’s Thibault Sottiaux, who works on Codex and ChatGPT, posted a short update that many users had been waiting for. “Resets all propagated,” he wrote. In plain words, the usage reset had finished rolling out. For people who hit weekly or daily caps on coding agents (tools that write and change code for you) or ChatGPT, that single line was the news that mattered.</p>
+<p>Elsewhere, builders shared lighter product notes. Practical AI writer Peter Yang said Claude’s limits jumped from “barely usable” to “basically unlimited.” He is also building a small app with Gemini’s audio API (a way for software to hear and speak) to practice conversational Japanese: ten lessons, ten phrases each. Claude Code’s Thariq looked back about a year, to some of the first posts on making videos with Claude Code. Each clip took a long time then. He said the change since then still feels crazy. Every CEO Dan Shipper wrote a short novelization of Plato’s Protagoras, then asked Opus 5.5 to turn it into a short film and shared early scenes. Y Combinator CEO Garry Tan said his favorite way to fix production bugs now is Capy with GStack /autoplan, using GPT-6 medium reasoning.</p>
+<p>Vercel CEO Guillermo Rauch aimed at a harder problem: understanding. He wrote “Reject non-understanding.” Slop grenades, he said, are not only bad code and pull requests. There is a real risk that reading itself gets discounted, because people are tired of low-quality, unchecked AI prose. He pointed to a viral thread about a “performance win” tied to a compiler change. The pull request description itself had the AI saying the gain was not from the compiler. It came from changes in algorithms and data structures. Rauch wants AI that serves understanding of the world, and that lifts human thinking and creativity — not tools that flood the feed with noise.</p>
+<p>The longest idea of the day came from No Priors with Stefano Ermon, co-founder and CEO of Inception, and a Stanford professor long known for diffusion research. Diffusion is a way to generate content by starting from noise and cleaning it step by step. It already leads in images and video. Ermon’s bet is that it can also win for text and code at inference time — the moment when a model produces an answer after training is done.</p>
+<p>He said today’s big labs mostly bet on autoregressive models for text. Those models write one token (a small piece of text) after another. That left-to-right path mapped poorly to GPUs, which prefer parallel work. Diffusion models, by design, process many tokens at once during generation. In 2024 his lab showed a diffusion language model under a billion parameters could match a GPT-2-scale autoregressive model on quality metrics, while generating text about 10 times faster. Inception later built Mercury models that, on benchmarks, sit near the flash, mini, and nano speed-focused models from frontier labs, while running faster. The company is about two years old and around 50 people. They even built their own serving engine, because common stacks were not enough.</p>
+<p>Ermon’s estimate is simple: on a map of real workloads such as those on OpenRouter, about 20% to 30% care a lot about latency (how long you wait for an answer). At least that slice is a strong fit. His memorable line was that the bitter lesson is that the more parallel solution is the one that eventually wins.</p>
+<p>Put together, the day sat next to three pressures. One is the volume of daily usage that only works again after a reset lands. One is the blunt call to reject text you do not understand. One is a bet that inference speed, not only training scale, will decide the next architecture. The hard part is choosing tools that sit next to real work — and still leave room for human judgment.</p>
+<h3>Sentence Focus</h3>
+<p>Resets all propagated.<br/>
+- Resets / all / propagated.<br/>
+- 这是很 blunt 的短句；propagated 表示「已经传开 / 生效」。<br/>
+- 重置已经全部生效了。</p>
+<p>There is a real risk that reading itself gets discounted.<br/>
+- There is a real risk / that reading itself / gets discounted.<br/>
+- “there is a risk that …” 引出担心；itself 强调「阅读这件事本身」被低估。<br/>
+- 真正的风险是：阅读本身会被低估。</p>
+<p>The more parallel solution is the one that eventually wins.<br/>
+- The more parallel solution / is the one / that eventually wins.<br/>
+- “the more … the one that …” 用比较级锁定赢家；that 引导定语从句。<br/>
+- 更并行的方案，最终会赢。</p>]]></description>
+      <content:encoded><![CDATA[<p>Title for RSS: Resets land, AI slop, and why diffusion may win inference</p>
+<p>Today’s builder notes pointed one way. Usage limits came back. People pushed back on low-quality AI text. And one founder argued that a different model design may win when speed at answer time matters most.</p>
+<p>OpenAI’s Thibault Sottiaux, who works on Codex and ChatGPT, posted a short update that many users had been waiting for. “Resets all propagated,” he wrote. In plain words, the usage reset had finished rolling out. For people who hit weekly or daily caps on coding agents (tools that write and change code for you) or ChatGPT, that single line was the news that mattered.</p>
+<p>Elsewhere, builders shared lighter product notes. Practical AI writer Peter Yang said Claude’s limits jumped from “barely usable” to “basically unlimited.” He is also building a small app with Gemini’s audio API (a way for software to hear and speak) to practice conversational Japanese: ten lessons, ten phrases each. Claude Code’s Thariq looked back about a year, to some of the first posts on making videos with Claude Code. Each clip took a long time then. He said the change since then still feels crazy. Every CEO Dan Shipper wrote a short novelization of Plato’s Protagoras, then asked Opus 5.5 to turn it into a short film and shared early scenes. Y Combinator CEO Garry Tan said his favorite way to fix production bugs now is Capy with GStack /autoplan, using GPT-6 medium reasoning.</p>
+<p>Vercel CEO Guillermo Rauch aimed at a harder problem: understanding. He wrote “Reject non-understanding.” Slop grenades, he said, are not only bad code and pull requests. There is a real risk that reading itself gets discounted, because people are tired of low-quality, unchecked AI prose. He pointed to a viral thread about a “performance win” tied to a compiler change. The pull request description itself had the AI saying the gain was not from the compiler. It came from changes in algorithms and data structures. Rauch wants AI that serves understanding of the world, and that lifts human thinking and creativity — not tools that flood the feed with noise.</p>
+<p>The longest idea of the day came from No Priors with Stefano Ermon, co-founder and CEO of Inception, and a Stanford professor long known for diffusion research. Diffusion is a way to generate content by starting from noise and cleaning it step by step. It already leads in images and video. Ermon’s bet is that it can also win for text and code at inference time — the moment when a model produces an answer after training is done.</p>
+<p>He said today’s big labs mostly bet on autoregressive models for text. Those models write one token (a small piece of text) after another. That left-to-right path mapped poorly to GPUs, which prefer parallel work. Diffusion models, by design, process many tokens at once during generation. In 2024 his lab showed a diffusion language model under a billion parameters could match a GPT-2-scale autoregressive model on quality metrics, while generating text about 10 times faster. Inception later built Mercury models that, on benchmarks, sit near the flash, mini, and nano speed-focused models from frontier labs, while running faster. The company is about two years old and around 50 people. They even built their own serving engine, because common stacks were not enough.</p>
+<p>Ermon’s estimate is simple: on a map of real workloads such as those on OpenRouter, about 20% to 30% care a lot about latency (how long you wait for an answer). At least that slice is a strong fit. His memorable line was that the bitter lesson is that the more parallel solution is the one that eventually wins.</p>
+<p>Put together, the day sat next to three pressures. One is the volume of daily usage that only works again after a reset lands. One is the blunt call to reject text you do not understand. One is a bet that inference speed, not only training scale, will decide the next architecture. The hard part is choosing tools that sit next to real work — and still leave room for human judgment.</p>
+<h3>Sentence Focus</h3>
+<p>Resets all propagated.<br/>
+- Resets / all / propagated.<br/>
+- 这是很 blunt 的短句；propagated 表示「已经传开 / 生效」。<br/>
+- 重置已经全部生效了。</p>
+<p>There is a real risk that reading itself gets discounted.<br/>
+- There is a real risk / that reading itself / gets discounted.<br/>
+- “there is a risk that …” 引出担心；itself 强调「阅读这件事本身」被低估。<br/>
+- 真正的风险是：阅读本身会被低估。</p>
+<p>The more parallel solution is the one that eventually wins.<br/>
+- The more parallel solution / is the one / that eventually wins.<br/>
+- “the more … the one that …” 用比较级锁定赢家；that 引导定语从句。<br/>
+- 更并行的方案，最终会赢。</p>]]></content:encoded>
+    </item>
+
     <item>
       <title>One Claude, agent procurement, and a Codex reset</title>
       <guid isPermaLink="false">english-reading-2026-09-26</guid>
