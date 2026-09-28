@@ -6,7 +6,57 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 27 Sep 2026 21:19:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:42:00 +0800</lastBuildDate>
+
+    <item>
+      <title>Native apps, agent friction, and not eating the gains</title>
+      <guid isPermaLink="false">english-reading-2026-09-28</guid>
+      <pubDate>Mon, 28 Sep 2026 21:42:00 +0800</pubDate>
+      <description><![CDATA[<p>Title for RSS: Native apps, agent friction, and not eating the gains</p>
+<p>Today’s builder notes pointed one way. Desktop software may go more native again. Agents may rewrite who wins when buying feels hard. And one engineer warned that better tools can still make people lazier.</p>
+<p>Vercel CEO Guillermo Rauch shared a hands-on rebuild. He ported his Mini web browser to Rust and Swift. He said it is faster and more secure. He also said it is nicer to iterate on than Electron plus Bun. Electron is a common way to wrap web apps as desktop apps. He wanted Safari-like UX with Chrome-level web support. With the cef crate, he can ship up-to-date Chromium. He embeds an agent without bloating the app, using fx acp. That agent talks to his local fx CLI over ACP, then manages the browser through an MCP server. MCP is a way for tools to expose actions an agent can call. By ditching Electron, he got Liquid Glass, faster boots, and a more Mac-native feel. His bet is blunt: native is the future on the desktop and in the cloud. The software world may “nativify” faster than people expect.</p>
+<p>Box CEO Aaron Levie looked at markets through agents that choose the best or most efficient option for users. On one side, some businesses benefit from the friction that keeps customers from switching. In those markets, switching costs may fall, and competition may rise. On the other side, markets hurt by friction — such as healthcare, travel, and local services — may unlock more activity when agents make buying easier. A future shaped by agents that work for our goals, he said, cannot look exactly like today.</p>
+<p>Claude Code’s Thariq put the cultural risk in one line. He is most afraid that people will eat the productivity gains of agents by just becoming lazier. OpenAI’s Thibault Sottiaux pushed on release habits: a code freeze before shipping is not really a thing anymore. In the future, code might even be generated online per request, under constraints. Peter Steinberger said his plan is to let Codex decide which tests actually need to run, cut CI hard, and run tests hourly.</p>
+<p>The longest idea of the day came from Training Data with Aaron Levie. He argued that “model wrappers” work in the enterprise because the real gap sits between model skill and real workflows. Even a super-smart model still needs data connections, human-in-the-loop steps, idle waits, change management, and legacy systems. Cloud infrastructure created huge value, he said, and so did products like Snowflake on top of it. The same pattern may hold for intelligence: models will be valuable, but applying them in banking, life sciences, and government still needs a lot of software.</p>
+<p>Box sits on huge piles of unstructured files. Agents can answer questions, pull out metadata, and automate steps. A simple hero use case is reading a million contracts that no team could afford to read by hand. Levie also separated coding “slop” from work slop in decks and memos. Code is often treated as a utility. A slide deck still feels like a proxy for trust: how much did this person think, and can they deliver?</p>
+<p>On diffusion, coding agents spread fast for many reasons: value is close to the text that ships, labs train and test on code every day, and technical users fix broken tools themselves. A sales role is rate-limited by customer replies, meetings, and budget. Knowledge work also lacks a simple “connect your GitHub” on-ramp. Levie’s advice for staying current was practical: join X and follow the right accounts. You are either a year ahead or a year behind, simply based on your feed.</p>
+<p>Put together, the day sat next to three pressures. One is the volume of native craft returning to desktop software. One is the blunt rewrite of market friction when agents choose for us. One is the quiet risk that better agents shrink effort instead of raising ambition. The hard part is building tools that sit next to real work — and still keeping the gains.</p>
+<h3>Sentence Focus</h3>
+<p>He is most afraid of us eating the productivity gains of agents by just becoming lazier.<br/>
+- He is most afraid / of us eating the productivity gains of agents / by just becoming lazier.<br/>
+- “afraid of … by just …” 把担心对象和方式叠在一起；eating the gains 是形象说法，表示把好处「吃掉」了。<br/>
+- 他最怕的是：我们把 agent 带来的生产力增益吃掉了，只是变得更懒。</p>
+<p>A future meaningfully mediated by agents cannot possibly function exactly the same as today.<br/>
+- A future / meaningfully mediated by agents / cannot possibly function / exactly the same as today.<br/>
+- “mediated by …” 是被动结构；cannot possibly 加强否定；the same as 做比较。<br/>
+- 一个被 agent 深度中介的未来，不可能和今天一模一样地运转。</p>
+<p>You are either a year ahead or a year behind simply based on your feed.<br/>
+- You are either a year ahead / or a year behind / simply based on your feed.<br/>
+- “either … or …” 二选一；simply based on 表示「仅仅取决于」。<br/>
+- 你要么领先一年，要么落后一年，差别常常只在你的信息流。</p>]]></description>
+      <content:encoded><![CDATA[<p>Title for RSS: Native apps, agent friction, and not eating the gains</p>
+<p>Today’s builder notes pointed one way. Desktop software may go more native again. Agents may rewrite who wins when buying feels hard. And one engineer warned that better tools can still make people lazier.</p>
+<p>Vercel CEO Guillermo Rauch shared a hands-on rebuild. He ported his Mini web browser to Rust and Swift. He said it is faster and more secure. He also said it is nicer to iterate on than Electron plus Bun. Electron is a common way to wrap web apps as desktop apps. He wanted Safari-like UX with Chrome-level web support. With the cef crate, he can ship up-to-date Chromium. He embeds an agent without bloating the app, using fx acp. That agent talks to his local fx CLI over ACP, then manages the browser through an MCP server. MCP is a way for tools to expose actions an agent can call. By ditching Electron, he got Liquid Glass, faster boots, and a more Mac-native feel. His bet is blunt: native is the future on the desktop and in the cloud. The software world may “nativify” faster than people expect.</p>
+<p>Box CEO Aaron Levie looked at markets through agents that choose the best or most efficient option for users. On one side, some businesses benefit from the friction that keeps customers from switching. In those markets, switching costs may fall, and competition may rise. On the other side, markets hurt by friction — such as healthcare, travel, and local services — may unlock more activity when agents make buying easier. A future shaped by agents that work for our goals, he said, cannot look exactly like today.</p>
+<p>Claude Code’s Thariq put the cultural risk in one line. He is most afraid that people will eat the productivity gains of agents by just becoming lazier. OpenAI’s Thibault Sottiaux pushed on release habits: a code freeze before shipping is not really a thing anymore. In the future, code might even be generated online per request, under constraints. Peter Steinberger said his plan is to let Codex decide which tests actually need to run, cut CI hard, and run tests hourly.</p>
+<p>The longest idea of the day came from Training Data with Aaron Levie. He argued that “model wrappers” work in the enterprise because the real gap sits between model skill and real workflows. Even a super-smart model still needs data connections, human-in-the-loop steps, idle waits, change management, and legacy systems. Cloud infrastructure created huge value, he said, and so did products like Snowflake on top of it. The same pattern may hold for intelligence: models will be valuable, but applying them in banking, life sciences, and government still needs a lot of software.</p>
+<p>Box sits on huge piles of unstructured files. Agents can answer questions, pull out metadata, and automate steps. A simple hero use case is reading a million contracts that no team could afford to read by hand. Levie also separated coding “slop” from work slop in decks and memos. Code is often treated as a utility. A slide deck still feels like a proxy for trust: how much did this person think, and can they deliver?</p>
+<p>On diffusion, coding agents spread fast for many reasons: value is close to the text that ships, labs train and test on code every day, and technical users fix broken tools themselves. A sales role is rate-limited by customer replies, meetings, and budget. Knowledge work also lacks a simple “connect your GitHub” on-ramp. Levie’s advice for staying current was practical: join X and follow the right accounts. You are either a year ahead or a year behind, simply based on your feed.</p>
+<p>Put together, the day sat next to three pressures. One is the volume of native craft returning to desktop software. One is the blunt rewrite of market friction when agents choose for us. One is the quiet risk that better agents shrink effort instead of raising ambition. The hard part is building tools that sit next to real work — and still keeping the gains.</p>
+<h3>Sentence Focus</h3>
+<p>He is most afraid of us eating the productivity gains of agents by just becoming lazier.<br/>
+- He is most afraid / of us eating the productivity gains of agents / by just becoming lazier.<br/>
+- “afraid of … by just …” 把担心对象和方式叠在一起；eating the gains 是形象说法，表示把好处「吃掉」了。<br/>
+- 他最怕的是：我们把 agent 带来的生产力增益吃掉了，只是变得更懒。</p>
+<p>A future meaningfully mediated by agents cannot possibly function exactly the same as today.<br/>
+- A future / meaningfully mediated by agents / cannot possibly function / exactly the same as today.<br/>
+- “mediated by …” 是被动结构；cannot possibly 加强否定；the same as 做比较。<br/>
+- 一个被 agent 深度中介的未来，不可能和今天一模一样地运转。</p>
+<p>You are either a year ahead or a year behind simply based on your feed.<br/>
+- You are either a year ahead / or a year behind / simply based on your feed.<br/>
+- “either … or …” 二选一；simply based on 表示「仅仅取决于」。<br/>
+- 你要么领先一年，要么落后一年，差别常常只在你的信息流。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Resets land, AI slop, and why diffusion may win inference</title>
       <guid isPermaLink="false">english-reading-2026-09-27</guid>
