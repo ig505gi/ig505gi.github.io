@@ -6,7 +6,57 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 28 Sep 2026 21:42:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:37:00 +0800</lastBuildDate>
+
+    <item>
+      <title>Sonnet 5.5 jumps, Pro usage math, and DevDay next</title>
+      <guid isPermaLink="false">english-reading-2026-09-29</guid>
+      <pubDate>Tue, 29 Sep 2026 21:37:00 +0800</pubDate>
+      <description><![CDATA[<p>Title for RSS: Sonnet 5.5 jumps, Pro usage math, and DevDay next</p>
+<p>Today’s builder notes pointed one way. A new mid-tier Claude model felt much stronger in real work. OpenAI changed how Pro $200 usage is counted. And DevDay was only hours away.</p>
+<p>Anthropic’s Claude team spent the day showing Sonnet 5.5 in Claude Code. Claude Code is a coding agent — a tool that writes and edits code for you. Claude Code’s Boris Cherny shared a short clip of Sonnet 5.5 fixing a bug. He said it was about 30% faster and used about 30% less. Cat Wu, who works on Claude Code and Cowork, said users get about 30% more tasks done than with Sonnet 5. The model is smarter, so it needs fewer tokens for the same work. Tokens are the small pieces of text a model reads and writes. In one demo, the agent raked a yard of leaves with tool calls. It finished 24 seconds faster than Sonnet 5 and used about 6,000 fewer tokens.</p>
+<p>Anthropic researcher Alex Albert said Sonnet 5.5 has the same feel he liked in Opus 5.5. It writes clearly. It is very fast. And it is a big jump over Sonnet 5. Every CEO Dan Shipper agreed on writing. In his tests for Every, Sonnet 5.5 improved a lot at revision — even versus Opus 5.5. Astra is still his favorite for writing, but Sonnet 5.5 wins on rewrite tasks. It is also faster and cheaper than Opus 5.5, so it became a preferred model for quick coding and design loops on his team.</p>
+<p>Box CEO Aaron Levie brought enterprise numbers. Box tested Sonnet 5.5 early on hard knowledge-work tasks with the Box Agent. Overall, the hardest tests rose by about 4 points. Finished work arrived about 2.4 times faster, on about 12% fewer tokens. Gains were larger in some fields, such as financial services and legal. In one finance case, Sonnet 5.5 caught bad interest totals in a deal book. In a lease review, it refused to invent a “standard” market number and flagged what the lease really lacked. Customers will soon build agents with Sonnet 5.5 in Box AI Studio.</p>
+<p>On the OpenAI side, Thibault Sottiaux — who works on Codex and ChatGPT — posted a long, blunt note before the big news. Tomorrow, Pro $200 would reopen to new subscribers. At the same time, OpenAI would change how usage is calculated. In effect, he said, the plan would net out at about half the dollar of API spend versus the old Pro $200 plan. API spend means how much the same work would cost if you paid OpenAI’s public API prices.</p>
+<p>He also said why users might still get more done than a month ago. OpenAI is not bringing back the 5-hour limit, so people can use their weekly budget when they want. Models keep getting more efficient, and API prices keep falling — this week GPT-6 Sol and GPT-6 Luna landed at 50% of their old price. Tomorrow, more subscription perks will not draw on usage. He did not say what those are yet. He wanted the usage change public before DevDay’s good news.</p>
+<p>OpenAI CEO Sam Altman fed the hype in one line: he was pretty excited for DevDay tomorrow, and “we have found a new thing.” Dan Shipper said he has been to every DevDay since 2023, and this one has the most launches yet. Practical AI writer Peter Yang is heading to his first DevDay. He also built a playable StarCraft level with Sonnet 5.5. And he pushed back on mood swings on X: one week OpenAI is “mogged,” another week Anthropic is “cooked.” He is glad two (and soon more) labs are pushing the frontier.</p>
+<p>Put together, the day sat next to three pressures. One is the volume of real work Sonnet 5.5 can finish with less cost. One is the blunt rewrite of Pro $200 usage math before DevDay. One is a launch day that may sit next to both stories at once. The hard part is choosing which gains to trust — speed, price, or the next surprise on stage.</p>
+<h3>Sentence Focus</h3>
+<p>Sonnet 5.5 is a major capabilities jump over Sonnet 5.<br/>
+- Sonnet 5.5 / is a major capabilities jump / over Sonnet 5.<br/>
+- “a … jump over …” 表示「相对……的大幅跃迁」；capabilities 指模型能力。<br/>
+- Sonnet 5.5 相对 Sonnet 5 是一次很大的能力跃迁。</p>
+<p>In effect, it will net out at half the dollar in API spend compared to the old plan.<br/>
+- In effect, / it will net out at / half the dollar in API spend / compared to the old plan.<br/>
+- “in effect”＝实际上；“net out at”＝算下来等于；“compared to” 做对比。<br/>
+- 实际上，按 API 美元花费算，大约只有旧方案的一半。</p>
+<p>I’m just glad there are two competitors pushing the frontier so we can all benefit.<br/>
+- I’m just glad / there are two competitors / pushing the frontier / so we can all benefit.<br/>
+- “glad there are …” 后接存在句；“so …” 引出结果。<br/>
+- 我只是高兴有两家对手在推前沿，这样大家都能受益。</p>]]></description>
+      <content:encoded><![CDATA[<p>Title for RSS: Sonnet 5.5 jumps, Pro usage math, and DevDay next</p>
+<p>Today’s builder notes pointed one way. A new mid-tier Claude model felt much stronger in real work. OpenAI changed how Pro $200 usage is counted. And DevDay was only hours away.</p>
+<p>Anthropic’s Claude team spent the day showing Sonnet 5.5 in Claude Code. Claude Code is a coding agent — a tool that writes and edits code for you. Claude Code’s Boris Cherny shared a short clip of Sonnet 5.5 fixing a bug. He said it was about 30% faster and used about 30% less. Cat Wu, who works on Claude Code and Cowork, said users get about 30% more tasks done than with Sonnet 5. The model is smarter, so it needs fewer tokens for the same work. Tokens are the small pieces of text a model reads and writes. In one demo, the agent raked a yard of leaves with tool calls. It finished 24 seconds faster than Sonnet 5 and used about 6,000 fewer tokens.</p>
+<p>Anthropic researcher Alex Albert said Sonnet 5.5 has the same feel he liked in Opus 5.5. It writes clearly. It is very fast. And it is a big jump over Sonnet 5. Every CEO Dan Shipper agreed on writing. In his tests for Every, Sonnet 5.5 improved a lot at revision — even versus Opus 5.5. Astra is still his favorite for writing, but Sonnet 5.5 wins on rewrite tasks. It is also faster and cheaper than Opus 5.5, so it became a preferred model for quick coding and design loops on his team.</p>
+<p>Box CEO Aaron Levie brought enterprise numbers. Box tested Sonnet 5.5 early on hard knowledge-work tasks with the Box Agent. Overall, the hardest tests rose by about 4 points. Finished work arrived about 2.4 times faster, on about 12% fewer tokens. Gains were larger in some fields, such as financial services and legal. In one finance case, Sonnet 5.5 caught bad interest totals in a deal book. In a lease review, it refused to invent a “standard” market number and flagged what the lease really lacked. Customers will soon build agents with Sonnet 5.5 in Box AI Studio.</p>
+<p>On the OpenAI side, Thibault Sottiaux — who works on Codex and ChatGPT — posted a long, blunt note before the big news. Tomorrow, Pro $200 would reopen to new subscribers. At the same time, OpenAI would change how usage is calculated. In effect, he said, the plan would net out at about half the dollar of API spend versus the old Pro $200 plan. API spend means how much the same work would cost if you paid OpenAI’s public API prices.</p>
+<p>He also said why users might still get more done than a month ago. OpenAI is not bringing back the 5-hour limit, so people can use their weekly budget when they want. Models keep getting more efficient, and API prices keep falling — this week GPT-6 Sol and GPT-6 Luna landed at 50% of their old price. Tomorrow, more subscription perks will not draw on usage. He did not say what those are yet. He wanted the usage change public before DevDay’s good news.</p>
+<p>OpenAI CEO Sam Altman fed the hype in one line: he was pretty excited for DevDay tomorrow, and “we have found a new thing.” Dan Shipper said he has been to every DevDay since 2023, and this one has the most launches yet. Practical AI writer Peter Yang is heading to his first DevDay. He also built a playable StarCraft level with Sonnet 5.5. And he pushed back on mood swings on X: one week OpenAI is “mogged,” another week Anthropic is “cooked.” He is glad two (and soon more) labs are pushing the frontier.</p>
+<p>Put together, the day sat next to three pressures. One is the volume of real work Sonnet 5.5 can finish with less cost. One is the blunt rewrite of Pro $200 usage math before DevDay. One is a launch day that may sit next to both stories at once. The hard part is choosing which gains to trust — speed, price, or the next surprise on stage.</p>
+<h3>Sentence Focus</h3>
+<p>Sonnet 5.5 is a major capabilities jump over Sonnet 5.<br/>
+- Sonnet 5.5 / is a major capabilities jump / over Sonnet 5.<br/>
+- “a … jump over …” 表示「相对……的大幅跃迁」；capabilities 指模型能力。<br/>
+- Sonnet 5.5 相对 Sonnet 5 是一次很大的能力跃迁。</p>
+<p>In effect, it will net out at half the dollar in API spend compared to the old plan.<br/>
+- In effect, / it will net out at / half the dollar in API spend / compared to the old plan.<br/>
+- “in effect”＝实际上；“net out at”＝算下来等于；“compared to” 做对比。<br/>
+- 实际上，按 API 美元花费算，大约只有旧方案的一半。</p>
+<p>I’m just glad there are two competitors pushing the frontier so we can all benefit.<br/>
+- I’m just glad / there are two competitors / pushing the frontier / so we can all benefit.<br/>
+- “glad there are …” 后接存在句；“so …” 引出结果。<br/>
+- 我只是高兴有两家对手在推前沿，这样大家都能受益。</p>]]></content:encoded>
+    </item>
 
     <item>
       <title>Native apps, agent friction, and not eating the gains</title>
