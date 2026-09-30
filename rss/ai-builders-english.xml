@@ -6,9 +6,41 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 29 Sep 2026 21:37:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:24:00 +0800</lastBuildDate>
 
     <item>
+      <title>Dots go live, Sol gets cheaper, and the app layer fights for edge</title>
+      <guid isPermaLink="false">english-reading-2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 21:24:00 +0800</pubDate>
+      <description><![CDATA[<p>Title for RSS: Dots go live, Sol gets cheaper, and the app layer fights for edge</p>
+<p>Today’s builder notes pointed one way. OpenAI launched a new always-on product called Dots. A strong model got much cheaper. And the tools around agents kept racing ahead.</p>
+<p>OpenAI CEO Sam Altman said Dots are here. A Dot is a new way to use AI that works for you all day and night. The idea is simple: let the system handle more of the busy work, so you get time and attention back for harder thinking. Altman also praised Ultrafast. He said it is so fast that he does not want to go back. On price, he highlighted Sol 6.1. He said it costs about one fifth of Astra, with a 95% cache read discount. Cache read means reusing text the model has already seen, so later calls can cost less. He called Sol 6.1 extremely capable.</p>
+<p>Thibault Sottiaux, who works on Codex and ChatGPT at OpenAI, shared early notes after DevDay. Within days, he said, a few million dots would be online, doing many kinds of work across a large community. He is excited to learn what people love and what still does not feel magical. After two or three days of use — and after teaching the Dot more about his preferences — he felt a clear jump. It learned quickly. It could also take on surprisingly big tasks on its own. The team wants to learn from how people use their primary Dot before they let users create a whole team of them. He also said DevDay felt great in person. Many people built things throughout the day.</p>
+<p>Outside OpenAI, the developer stack kept moving. Vercel CEO Guillermo Rauch said the AI SDK hit 30 million weekly downloads. An SDK is a kit of tools that help developers build apps. He made a short milestone video with fframes and Opus. He said the video was written in Rust and rendered on the GPU. He also plotted an inverse link between product defects and downloads: fewer defects, more downloads.</p>
+<p>Box CEO Aaron Levie looked at safety, not just speed. He said it is entirely plausible that the AI industry can handle safety and security through shared standards and practices for a while. At some point, he expects more oversight, testing, and layers of liability. For now, he thinks labs can align on these efforts without killing competition. He was glad to see that come together quickly.</p>
+<p>FPV Ventures partner Nikunj Kothari wrote two blunt market notes. First, missionaries are harder to find. Some people leave companies they cofounded to join the “obvious” winners. Public CEOs leave for lab jobs. Teams get “Windsurf-ed,” where only some people join the next company. Early-stage investors often bet on people. When those people leave fast, the remaining company can become a shell. Second, defensibility is no longer one single moat. In the app layer, the harness — the system of tools, checks, and workflows around a model — is like a thousand small things done well. Much of it is invisible. In fierce competition, founders who execute fast and adapt may be the real edge.</p>
+<p>Replit CEO Amjad Masad shared a note on how to design a harness that reaches frontier performance at a fraction of the cost. YC’s Garry Tan merged a version of OpenClaw’s test-audit skill into GStack, calling out test bloat. Builder Zara Zhang shipped a marketing site for a water bottle with Opus 5.5 in six prompts, using Elevenlabs for music, Meshy for 3D, and the OpenAI API for images.</p>
+<p>Put together, the day sat next to three pressures. One is the volume of always-on agents that sit next to daily work. One is the blunt race on price and speed after DevDay. One is the quiet fight in the app layer, where edge is many small details, not one slogan. The hard part is teaching these systems what you care about — and still keeping the craft that competitors cannot copy overnight.</p>
+<h3>Sentence Focus</h3>
+<p>It learns very quickly to be most useful and it can take on surprisingly ambitious tasks on its own.<br/>- It learns very quickly / to be most useful / and it can take on / surprisingly ambitious tasks / on its own.<br/>- “take on … on its own”＝自行接手；“surprisingly ambitious” 修饰 tasks。<br/>- 它学得很快，能变得特别有用，还能自己接手出人意料地有野心的任务。</p>
+<p>In the app layer, the harness is like a thousand small things done well.<br/>- In the app layer, / the harness / is like / a thousand small things done well.<br/>- “in the app layer”＝在应用层；“done well” 是过去分词作后置修饰。<br/>- 在应用层，harness 就像一千件小事都做好。</p>
+<p>It is entirely plausible that the AI industry can deal with safety through shared standards for the foreseeable future.<br/>- It is entirely plausible / that the AI industry can deal with safety / through shared standards / for the foreseeable future.<br/>- “it is entirely plausible that …”＝完全说得通；“for the foreseeable future”＝在可预见的将来。<br/>- 完全说得通：在可预见的将来，AI 行业可以用共享标准来处理安全问题。</p>]]></description>
+      <content:encoded><![CDATA[<p>Title for RSS: Dots go live, Sol gets cheaper, and the app layer fights for edge</p>
+<p>Today’s builder notes pointed one way. OpenAI launched a new always-on product called Dots. A strong model got much cheaper. And the tools around agents kept racing ahead.</p>
+<p>OpenAI CEO Sam Altman said Dots are here. A Dot is a new way to use AI that works for you all day and night. The idea is simple: let the system handle more of the busy work, so you get time and attention back for harder thinking. Altman also praised Ultrafast. He said it is so fast that he does not want to go back. On price, he highlighted Sol 6.1. He said it costs about one fifth of Astra, with a 95% cache read discount. Cache read means reusing text the model has already seen, so later calls can cost less. He called Sol 6.1 extremely capable.</p>
+<p>Thibault Sottiaux, who works on Codex and ChatGPT at OpenAI, shared early notes after DevDay. Within days, he said, a few million dots would be online, doing many kinds of work across a large community. He is excited to learn what people love and what still does not feel magical. After two or three days of use — and after teaching the Dot more about his preferences — he felt a clear jump. It learned quickly. It could also take on surprisingly big tasks on its own. The team wants to learn from how people use their primary Dot before they let users create a whole team of them. He also said DevDay felt great in person. Many people built things throughout the day.</p>
+<p>Outside OpenAI, the developer stack kept moving. Vercel CEO Guillermo Rauch said the AI SDK hit 30 million weekly downloads. An SDK is a kit of tools that help developers build apps. He made a short milestone video with fframes and Opus. He said the video was written in Rust and rendered on the GPU. He also plotted an inverse link between product defects and downloads: fewer defects, more downloads.</p>
+<p>Box CEO Aaron Levie looked at safety, not just speed. He said it is entirely plausible that the AI industry can handle safety and security through shared standards and practices for a while. At some point, he expects more oversight, testing, and layers of liability. For now, he thinks labs can align on these efforts without killing competition. He was glad to see that come together quickly.</p>
+<p>FPV Ventures partner Nikunj Kothari wrote two blunt market notes. First, missionaries are harder to find. Some people leave companies they cofounded to join the “obvious” winners. Public CEOs leave for lab jobs. Teams get “Windsurf-ed,” where only some people join the next company. Early-stage investors often bet on people. When those people leave fast, the remaining company can become a shell. Second, defensibility is no longer one single moat. In the app layer, the harness — the system of tools, checks, and workflows around a model — is like a thousand small things done well. Much of it is invisible. In fierce competition, founders who execute fast and adapt may be the real edge.</p>
+<p>Replit CEO Amjad Masad shared a note on how to design a harness that reaches frontier performance at a fraction of the cost. YC’s Garry Tan merged a version of OpenClaw’s test-audit skill into GStack, calling out test bloat. Builder Zara Zhang shipped a marketing site for a water bottle with Opus 5.5 in six prompts, using Elevenlabs for music, Meshy for 3D, and the OpenAI API for images.</p>
+<p>Put together, the day sat next to three pressures. One is the volume of always-on agents that sit next to daily work. One is the blunt race on price and speed after DevDay. One is the quiet fight in the app layer, where edge is many small details, not one slogan. The hard part is teaching these systems what you care about — and still keeping the craft that competitors cannot copy overnight.</p>
+<h3>Sentence Focus</h3>
+<p>It learns very quickly to be most useful and it can take on surprisingly ambitious tasks on its own.<br/>- It learns very quickly / to be most useful / and it can take on / surprisingly ambitious tasks / on its own.<br/>- “take on … on its own”＝自行接手；“surprisingly ambitious” 修饰 tasks。<br/>- 它学得很快，能变得特别有用，还能自己接手出人意料地有野心的任务。</p>
+<p>In the app layer, the harness is like a thousand small things done well.<br/>- In the app layer, / the harness / is like / a thousand small things done well.<br/>- “in the app layer”＝在应用层；“done well” 是过去分词作后置修饰。<br/>- 在应用层，harness 就像一千件小事都做好。</p>
+<p>It is entirely plausible that the AI industry can deal with safety through shared standards for the foreseeable future.<br/>- It is entirely plausible / that the AI industry can deal with safety / through shared standards / for the foreseeable future.<br/>- “it is entirely plausible that …”＝完全说得通；“for the foreseeable future”＝在可预见的将来。<br/>- 完全说得通：在可预见的将来，AI 行业可以用共享标准来处理安全问题。</p>]]></content:encoded>
+    </item>
+
+<item>
       <title>Sonnet 5.5 jumps, Pro usage math, and DevDay next</title>
       <guid isPermaLink="false">english-reading-2026-09-29</guid>
       <pubDate>Tue, 29 Sep 2026 21:37:00 +0800</pubDate>
@@ -58,7 +90,7 @@
 - 我只是高兴有两家对手在推前沿，这样大家都能受益。</p>]]></content:encoded>
     </item>
 
-    <item>
+<item>
       <title>Native apps, agent friction, and not eating the gains</title>
       <guid isPermaLink="false">english-reading-2026-09-28</guid>
       <pubDate>Mon, 28 Sep 2026 21:42:00 +0800</pubDate>
@@ -107,7 +139,8 @@
 - “either … or …” 二选一；simply based on 表示「仅仅取决于」。<br/>
 - 你要么领先一年，要么落后一年，差别常常只在你的信息流。</p>]]></content:encoded>
     </item>
-    <item>
+
+<item>
       <title>Resets land, AI slop, and why diffusion may win inference</title>
       <guid isPermaLink="false">english-reading-2026-09-27</guid>
       <pubDate>Sun, 27 Sep 2026 21:19:00 +0800</pubDate>
@@ -157,7 +190,7 @@
 - 更并行的方案，最终会赢。</p>]]></content:encoded>
     </item>
 
-    <item>
+<item>
       <title>One Claude, agent procurement, and a Codex reset</title>
       <guid isPermaLink="false">english-reading-2026-09-26</guid>
       <pubDate>Sat, 26 Sep 2026 21:24:00 +0800</pubDate>
@@ -215,7 +248,7 @@
 - 如果你只让 agent 做清理，它会停得太早。</p>]]></content:encoded>
     </item>
 
-        <item>
+<item>
       <title>Blast radius, agent parts, and what agents are for</title>
       <guid isPermaLink="false">english-reading-2026-09-24</guid>
       <pubDate>Thu, 24 Sep 2026 21:43:00 +0800</pubDate>
@@ -274,7 +307,7 @@
 - 更强的模型，不该意味着往外塞十倍功能。</p>]]></content:encoded>
     </item>
 
-    <item>
+<item>
       <title>Agents spend money, ads lose eyes, and Claude drives Chrome</title>
       <guid isPermaLink="false">english-reading-2026-09-22</guid>
       <pubDate>Tue, 22 Sep 2026 21:53:00 +0800</pubDate>
@@ -303,7 +336,7 @@
 - 这条产品故事，就挨着一条带直白广告警告的商业故事。</p>]]></content:encoded>
     </item>
 
-                <item>
+<item>
       <title>Personal agents race, agent QA grind, and banking the AIs</title>
       <guid isPermaLink="false">english-reading-2026-09-21</guid>
       <pubDate>Mon, 21 Sep 2026 22:05:00 +0800</pubDate>
@@ -363,7 +396,8 @@
 - “takes it as nearly certain that …” 表示「几乎当成定局」；“without knowing it” 是伴随状态：公司自己还不知道。<br/>
 - 看过那波公告后，他几乎当成定局：已经有一些大公司在不知情的情况下被 nation-state 渗透了。</p>]]></content:encoded>
     </item>
-            <item>
+
+<item>
       <title>Agents that read shared rules, models that race on speed</title>
       <guid isPermaLink="false">english-reading-2026-09-19</guid>
       <pubDate>Sat, 19 Sep 2026 21:30:00 +0800</pubDate>
@@ -394,6 +428,7 @@
 - “sits next to” 表示两件事并排放在一起、形成对照；“volume of” 指体量，不是音量。<br/>
 - 这种分秒级判断，就挨着对更便宜模型调用的巨大需求。</p>]]></content:encoded>
     </item>
+
 <item>
       <title>Claude Projects, family agents, and a flood of tiny software</title>
       <guid isPermaLink="false">english-reading-2026-09-18</guid>
@@ -425,6 +460,7 @@
    - “sits next to” 表示两件事并排放在一起、形成对照；“volume of” 指体量/数量，不是声音大小。<br/>
    - 这种共享记忆，就挨着眼下正在大量部署的微型软件。</p>]]></content:encoded>
     </item>
+
 <item>
       <title>One Claude for chat and real work</title>
       <guid isPermaLink="false">english-reading-2026-09-17</guid>
@@ -455,6 +491,7 @@
    - “blunt” 指直白、不绕弯；“sits next to” 表示两种东西并排出现、形成对照，不是字面「坐在旁边」。<br/>
    - 这种直白的反馈，就挨着发布时的兴奋声。</p>]]></content:encoded>
     </item>
+
 <item>
       <title>Models are strong — the hard part is still the bridge to work</title>
       <guid isPermaLink="false">english-reading-2026-09-16</guid>
@@ -483,6 +520,7 @@
    - “Unless …” = 「除非…否则」；主句在逗号后，说明扩散经济会出现的条件。<br/>
    - 他说，除非大实验室雇差不多十万人去包办这一切，否则会成长出很大的「扩散经济」。</p>]]></content:encoded>
     </item>
+
 <item>
       <title>Agents will do 100× more work — if we can contain them</title>
       <guid isPermaLink="false">english-reading-2026-09-15</guid>
@@ -530,6 +568,7 @@
    - “Decoupling … lets …” 动名词作主语；后面三个不带 to 的动词并列（treat / rebuild / keep）；“while implementations change” 表示实现在变、接口仍稳。<br/>
    - 把「脑」与「手」解耦，能让 harness 像对待其他工具调用一样对待容器，在它挂掉时重建，并在实现不断变化时保持接口稳定。</p>]]></content:encoded>
     </item>
+
 <item>
       <title>Sam Altman doubles down on pacing — while builders remind us most of the world is still early</title>
       <guid isPermaLink="false">english-reading-2026-09-14</guid>
@@ -577,6 +616,7 @@
    - “Even if …” 让步从句；“races ahead of” 把抽象名词 fear / penetration 写成赛跑，表示恐惧跑在真实渗透率前面。<br/>
    - 即便 2 月以来使用量已经上升，Yang 的观点仍然很简单：行业还很早期，而公众恐惧常常跑在真实渗透率前面。</p>]]></content:encoded>
     </item>
+
 <item>
       <title>Industry voices push for slower frontier AI — and for outside eyes inside the labs</title>
       <guid isPermaLink="false">english-reading-2026-09-13</guid>
@@ -606,5 +646,6 @@
 2. Even when he does not fully agree with Dario’s essay, Guru still urged people to read it carefully and to seek shared language on opportunity, risk, second-order effects, and cross-border coordination.
 3. Any slowdown depends on wide participation, and game theory makes that unlikely until risks look more obvious.</p>]]></content:encoded>
     </item>
-</channel>
+
+  </channel>
 </rss>
