@@ -6,7 +6,54 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 30 Sep 2026 21:24:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:26:00 +0800</lastBuildDate>
+
+
+    <item>
+      <title>Gemini 4 arrives, Dots reclaim mornings, and Sol runs hot</title>
+      <guid isPermaLink="false">english-reading-2026-10-01</guid>
+      <pubDate>Thu, 01 Oct 2026 21:26:00 +0800</pubDate>
+      <description><![CDATA[<p>Title for RSS: Gemini 4 arrives, Dots reclaim mornings, and Sol runs hot</p>
+<p>Today’s builder notes pointed one way. Google put Gemini 4 on stage. OpenAI’s new always-on Dot kept reclaiming time for people who run big teams. And GPT-6.1 Sol was so popular that capacity had to catch up.</p>
+<p>Google Labs VP Josh Woodward posted a short line: Gemini 4 Argon. Practical AI writer Peter Yang said Google “cooked” on Gemini 4. He still wants a stronger coding harness — the tools and workflows around a model — and a stronger personal agent. He named Antigravity for coding and Spark for the personal agent. The same day, Google Labs said Skills are rolling out in the Gemini app. Skills are a faster way to save custom instructions and automate repeat tasks inside chat. Opal, an earlier Labs experiment for custom workflows, will shut down on November 17, 2026. Google said Opal’s lessons now live inside Skills.</p>
+<p>On the OpenAI side, Thibault Sottiaux — who works on Codex and ChatGPT — said GPT-6.1 Sol is their most demanded model across the API and subscriptions. ChatGPT and Codex were under heavy load. The team added capacity. He said speed should reach almost twice what they served the day before. He also said you can now build and deploy MCP servers right through ChatGPT. MCP is a way for AI tools to talk to outside systems. You can keep a server private or share it with the world.</p>
+<p>Every’s podcast sat next to that product wave. Host Dan Shipper talked with OpenAI CEO Sam Altman after Dev Day. Altman said Dots — an always-on personal AI that sits next to your work — gave him back control of his mornings. Before, checking his phone for overnight fires ruined deep work. Now he trusts his Dot to judge what is urgent and what can wait. He named it Dottie for now. He also framed the bigger bet as a renaissance, not only an industrial revolution: more small teams and one-person companies, not one giant machine. OpenAI wants builders to ship apps inside ChatGPT and bring their subscription with them. Altman admitted they have not fully figured out the “App Store” yet, but they have figured out how to help many people build real products on the platform.</p>
+<p>Enterprise talk stayed blunt. Box CEO Aaron Levie said the hard work is the deployment layer — moving workflows, connecting data, adding human checks, and keeping evals fresh as models change. Deploying agents is not like installing old software. Vercel CEO Guillermo Rauch said Vercel AI Gateway is a trustworthy view of real token use because it has paying customers and turns down shady “zero data retention” promos. YC’s Garry Tan highlighted Capy, where agent swarms talk as peers instead of only taking top-down orders.</p>
+<p>Put together, the day sat next to three pressures. One is the volume of new model launches such as Gemini 4 Argon. One is the blunt race to keep Sol fast under demand. One is the quiet bet that Dots and Skills sit next to daily work and give people time back. The hard part is choosing what to trust first — a new model name, a stable harness, or an agent that knows what can wait until after deep work.</p>
+<h3>Sentence Focus</h3>
+<p>He still wants a stronger coding harness — the tools and workflows around a model — and a stronger personal agent.<br/>
+- He still wants / a stronger coding harness / — the tools and workflows around a model — / and a stronger personal agent.<br/>
+- “still wants … and …” 并列两个目标；破折号后是对 harness 的白话解释。<br/>
+- 他仍想要更强的 coding harness（模型周围的工具与工作流），以及更强的个人 agent。</p>
+<p>Now he trusts his Dot to judge what is urgent and what can wait.<br/>
+- Now / he trusts his Dot / to judge / what is urgent / and what can wait.<br/>
+- “trusts X to …”＝信任 X 去做某事；两个 what 从句并列。<br/>
+- 现在他信任自己的 Dot 去判断什么紧急、什么可以等。</p>
+<p>Deploying agents is not like installing old software.<br/>
+- Deploying agents / is not like / installing old software.<br/>
+- “is not like …”＝并不像；动名词作主语。<br/>
+- 部署 agent 并不像安装旧软件那样。</p>]]></description>
+      <content:encoded><![CDATA[<p>Title for RSS: Gemini 4 arrives, Dots reclaim mornings, and Sol runs hot</p>
+<p>Today’s builder notes pointed one way. Google put Gemini 4 on stage. OpenAI’s new always-on Dot kept reclaiming time for people who run big teams. And GPT-6.1 Sol was so popular that capacity had to catch up.</p>
+<p>Google Labs VP Josh Woodward posted a short line: Gemini 4 Argon. Practical AI writer Peter Yang said Google “cooked” on Gemini 4. He still wants a stronger coding harness — the tools and workflows around a model — and a stronger personal agent. He named Antigravity for coding and Spark for the personal agent. The same day, Google Labs said Skills are rolling out in the Gemini app. Skills are a faster way to save custom instructions and automate repeat tasks inside chat. Opal, an earlier Labs experiment for custom workflows, will shut down on November 17, 2026. Google said Opal’s lessons now live inside Skills.</p>
+<p>On the OpenAI side, Thibault Sottiaux — who works on Codex and ChatGPT — said GPT-6.1 Sol is their most demanded model across the API and subscriptions. ChatGPT and Codex were under heavy load. The team added capacity. He said speed should reach almost twice what they served the day before. He also said you can now build and deploy MCP servers right through ChatGPT. MCP is a way for AI tools to talk to outside systems. You can keep a server private or share it with the world.</p>
+<p>Every’s podcast sat next to that product wave. Host Dan Shipper talked with OpenAI CEO Sam Altman after Dev Day. Altman said Dots — an always-on personal AI that sits next to your work — gave him back control of his mornings. Before, checking his phone for overnight fires ruined deep work. Now he trusts his Dot to judge what is urgent and what can wait. He named it Dottie for now. He also framed the bigger bet as a renaissance, not only an industrial revolution: more small teams and one-person companies, not one giant machine. OpenAI wants builders to ship apps inside ChatGPT and bring their subscription with them. Altman admitted they have not fully figured out the “App Store” yet, but they have figured out how to help many people build real products on the platform.</p>
+<p>Enterprise talk stayed blunt. Box CEO Aaron Levie said the hard work is the deployment layer — moving workflows, connecting data, adding human checks, and keeping evals fresh as models change. Deploying agents is not like installing old software. Vercel CEO Guillermo Rauch said Vercel AI Gateway is a trustworthy view of real token use because it has paying customers and turns down shady “zero data retention” promos. YC’s Garry Tan highlighted Capy, where agent swarms talk as peers instead of only taking top-down orders.</p>
+<p>Put together, the day sat next to three pressures. One is the volume of new model launches such as Gemini 4 Argon. One is the blunt race to keep Sol fast under demand. One is the quiet bet that Dots and Skills sit next to daily work and give people time back. The hard part is choosing what to trust first — a new model name, a stable harness, or an agent that knows what can wait until after deep work.</p>
+<h3>Sentence Focus</h3>
+<p>He still wants a stronger coding harness — the tools and workflows around a model — and a stronger personal agent.<br/>
+- He still wants / a stronger coding harness / — the tools and workflows around a model — / and a stronger personal agent.<br/>
+- “still wants … and …” 并列两个目标；破折号后是对 harness 的白话解释。<br/>
+- 他仍想要更强的 coding harness（模型周围的工具与工作流），以及更强的个人 agent。</p>
+<p>Now he trusts his Dot to judge what is urgent and what can wait.<br/>
+- Now / he trusts his Dot / to judge / what is urgent / and what can wait.<br/>
+- “trusts X to …”＝信任 X 去做某事；两个 what 从句并列。<br/>
+- 现在他信任自己的 Dot 去判断什么紧急、什么可以等。</p>
+<p>Deploying agents is not like installing old software.<br/>
+- Deploying agents / is not like / installing old software.<br/>
+- “is not like …”＝并不像；动名词作主语。<br/>
+- 部署 agent 并不像安装旧软件那样。</p>]]></content:encoded>
+    </item>
 
     <item>
       <title>Dots go live, Sol gets cheaper, and the app layer fights for edge</title>
