@@ -6,8 +6,29 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 02 Oct 2026 21:22:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 21:26:00 +0800</lastBuildDate>
 
+
+    <item>
+      <title>Pro 500 gets fixed, dot learns your day, and Fractile bets on memory bandwidth</title>
+      <guid isPermaLink="false">english-reading-2026-10-03</guid>
+      <pubDate>Sat, 03 Oct 2026 21:26:00 +0800</pubDate>
+      <description><![CDATA[
+<p>Title for RSS: Pro 500 gets fixed, dot learns your day, and Fractile bets on memory bandwidth</p>
+<p>Today’s builder notes pulled three threads together. OpenAI cleaned up a Pro 500 usage reset that missed some users. Sam Altman talked up a partner race for speed and a personal agent called dot. And on No Priors, Fractile’s CEO argued that the next chip fight is about memory bandwidth, not only more compute.</p>
+<p>Thibault Sottiaux, who works on Codex and ChatGPT at OpenAI, saw reports that Pro 500 accounts did not get the reset they expected. He said the team was investigating and would make up for it. Later he posted a short update: all fixed. He also joked that future models will be much better at deleting and simplifying code. Usage limits sit next to daily work, so a failed reset gets noticed fast.</p>
+<p>OpenAI’s Sam Altman answered speculation about Cerebras. He said Cerebras is a close partner, with a deep push on the frontiers of speed. In another post he called dot his favorite OpenAI product so far. Each day it feels noticeably better as it learns more of his workflow and style. He likes that it takes on tasks he does not enjoy — the kind that usually build up as a gravity well of dread.</p>
+<p>That personal-agent idea showed up elsewhere too. Y Combinator president and CEO Garry Tan said his goal with GBrain is for agents to feel as native as the web eventually did — not a chatbot feature, but a guide that knows you, stays on 24/7, and thinks ahead. He also praised Capy for cross-session coordination that could steer around work he was already doing. Anthropic’s Claude Code engineer Thariq pointed at mods. He said “You should know” helps you stay on top of what Claude can do, and shows what mods unlock: you can really make Claude Code yours.</p>
+<p>Builders also shared blunt, practical wins. AI tutor Peter Yang had paid almost $300 a year for a YouTube research tool that grew too complex. He asked Claude to build only the core features he needed. Claude built it in five minutes. The Claude account posted weekend builds with Opus 5.5 and Sonnet 5.5, and Claude’s small-business blog expanded to 43 workflows and 27 new integrations after more than 900,000 installs.</p>
+<p>The longest idea of the day came from No Priors with Walter Goodwin, founder and CEO of Fractile. Fractile builds very fast inference chips — chips that run a finished model — for the world’s largest models. Goodwin’s blunt claim is that a structural three-to-six-month lead in chips can win the big deployments, much like a frontier model lead in software. He said many “new” accelerators still look alike: HBM-style DRAM, tensor cores, and similar packaging. Hyperscaler chips such as Google’s TPU or OpenAI’s Jalapeno often act more like pricing leverage against NVIDIA than a new capability curve.</p>
+<p>Fractile first explored SRAM designs in the same family as Groq or Cerebras — huge bandwidth, but weak capacity for long context. Goodwin said today’s fast chips often still flip back to a GPU for long-context attention. So the team moved toward high bandwidth from cheaper DRAM, aiming to unite GPU-like capacity with Groq-like speed, with a platform he said should ramp in the second half of next year. His favorite line is sharp: a snappier chatbot is the “faster horses” of fast inference. The real lift is running multi-trillion-parameter models at many thousands of tokens per second so long-running agents become radically faster. He also talked about roughly 25x more bandwidth per chip than HBM-based parts, and a long imbalance: FLOPs rose about a million-fold in twenty years, while memory bandwidth rose only about 40x.</p>
+<p>Put together, the day sat next to three pressures. One is the volume of reset fixes and personal agents that clear dread from the calendar. One is the blunt race to customize Claude and Capy so the tool fits the person. One is the quiet hardware bet that speed for agents will come from memory bandwidth, not only from more FLOPs. The hard part is choosing what to trust first — a fixed Pro 500 reset, a dot that learns your style, or a chip that can feed a long agent without running out of memory.</p>
+<p><strong>Sentence Focus</strong></p>
+<p>1. He said the team was investigating and would make up for it. - He said / the team was investigating / and would make up for it. - “make up for …”＝补偿……；和 “investigating” 并列说明一边查、一边补。 - 他说团队正在排查，并会为此作出补偿。</p>
+<p>2. Each day it feels noticeably better as it learns more of his workflow and style. - Each day / it feels noticeably better / as it learns more / of his workflow and style. - “as …”＝随着……；“noticeably better”＝明显更好；“workflow and style”＝工作流与风格。 - 随着它学到更多他的工作流和风格，它每天都明显感觉更好。</p>
+<p>3. A snappier chatbot is the “faster horses” of fast inference. - A snappier chatbot / is the “faster horses” / of fast inference. - “A is the B of C”＝用熟悉比喻解释新事物；这里把更跟手的聊天机器人比成「更快的马」。 - 更跟手的聊天机器人，只是快速推理里的「更快的马」。</p>
+]]></description>
+    </item>
 
     <item>
       <title>Sol resets, Claude halves design usage, and labs race to contain agents</title>
