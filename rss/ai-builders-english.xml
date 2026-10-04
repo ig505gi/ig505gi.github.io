@@ -6,8 +6,31 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 03 Oct 2026 21:26:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 21:18:00 +0800</lastBuildDate>
 
+
+
+    <item>
+      <title>Simpler tools, Dot clears the inbox, and agents still feel early</title>
+      <guid isPermaLink="false">english-reading-2026-10-04</guid>
+      <pubDate>Sun, 04 Oct 2026 21:18:00 +0800</pubDate>
+      <description><![CDATA[
+<p>Title for RSS: Simpler tools, Dot clears the inbox, and agents still feel early</p>
+<p>Today’s builder notes pulled three threads together. OpenAI’s Codex and ChatGPT lead said the next push is simplicity and more usage. Sam Altman drew a hard line on treating models like a religion. And product leaders argued that most agents still sit next to half-built workflows, not real daily work.</p>
+<p>Thibault Sottiaux, who works on Codex and ChatGPT at OpenAI, said the team is locking in. The only things on the list now are simplifications, more efficiency for more usage, and big new features or models. Feedback is clear: people want things to get simpler. He said the team is on it. Sometimes you invest ahead of the curve, but the priority list is now short.</p>
+<p>The same day he shared a personal win with Dot, a personal agent that learns your style and workflow. He said he had never hit inbox zero before. Dot helped by deleting whole email categories he did not need, labeling mail by type of work, and walking him through messages that needed a reply while searching for context in the background. He called it a good Saturday. The blunt point is simple: when an agent clears real mess, people notice.</p>
+<p>OpenAI CEO Sam Altman posted a quieter warning. He said he is very uncomfortable when people try to give AI models religious force, or when they surrender human judgment to the model. He called that a real safety issue. In plain words, the danger is not only a buggy tool. It is the choice to stop thinking for yourself.</p>
+<p>That warning sat next to a wider product story. Meta AI senior director Madhu Guru, who earlier led Gemini and Veo work at Google, said AI adoption is largely a product problem today. Even among the roughly 2% who pay for AI, depth of use is still shallow. The main reason, in his view, is that most AI products look like airplane cockpits with 100 levers — connectors, permissions, model selection, token usage, and more. He thinks this has started to change. In the next 12 months, as product teams come into their own, things should look materially different.</p>
+<p>Box CEO Aaron Levie painted a matching picture of agent adoption. He said it is still very bimodal. Coding and coding-adjacent tasks have taken off. Almost everything else has not. Even inside coding, only a small share of developers run background agents on projects in parallel. Most people still work with agents one to one. For the rest of knowledge work, real agentic adoption is still very early. Workflows need to be rebuilt. Data must be wired in new ways. Accountability, liability, governance, compliance, and security all have to change. His forecast is sharp: you can basically expect about 100x more agent adoption from what we have seen so far.</p>
+<p>Other voices sharpened the same tension. Vercel CEO Guillermo Rauch said security will grow as verification engineering — such as checking that code is probably memory-safe — and as capital allocation: which surface should get the most tokens. Ryo Lu, a designer who has worked on Cursor, Notion, and Stripe, warned about “convergence to the mean”: when everyone copies everyone else, products feel polished and interchangeable. AI makes that loop almost frictionless.</p>
+<p>Claude Blog also said Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a noon report, and Claude can keep working after you close the laptop. Docs, Slides, and Design now live in the same chat, so you stop choosing which door to open. You keep the final say.</p>
+<p>Put together, the day sat next to three pressures. One is the volume of product bets on simplicity, inbox cleanup, and one Claude surface. One is the blunt safety line that human judgment should not be surrendered. One is the quiet admission that agents are still early outside coding, because workflows and product design have not caught up. The hard part is choosing what to trust first — a simpler ChatGPT, a Dot that clears email, or an agent that still needs the cockpit removed.</p>
+<p><strong>Sentence Focus</strong></p>
+<p>Feedback is clear: people want things to get simpler. - Feedback is clear: / people want things / to get simpler. - 冒号后直接说明「反馈内容」；“want … to get …”＝希望……变得……。 - 反馈很清楚：人们希望事情变得更简单。</p>
+<p>Most AI products look like airplane cockpits with 100 levers. - Most AI products / look like airplane cockpits / with 100 levers. - “look like …”＝看起来像……；“with …” 补出细节；cockpit＝驾驶舱。 - 多数 AI 产品看起来像带有一百个操纵杆的飞机驾驶舱。</p>
+<p>Even among the roughly 2% who pay for AI, depth of use is still shallow. - Even among the roughly 2% / who pay for AI, / depth of use / is still shallow. - “Even among …”＝即便在……之中；“who …” 是定语从句；“depth of use”＝使用深度。 - 即便在大约那 2% 已经为 AI 付费的人里，使用深度仍然很浅。</p>
+]]></description>
+    </item>
 
     <item>
       <title>Pro 500 gets fixed, dot learns your day, and Fractile bets on memory bandwidth</title>
