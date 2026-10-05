@@ -6,9 +6,32 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 04 Oct 2026 21:18:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 21:40:00 +0800</lastBuildDate>
 
 
+
+    <item>
+      <title>A simpler ChatGPT, a Rust rethink, and a bank that moves faster</title>
+      <guid isPermaLink="false">english-reading-2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 21:40:00 +0800</pubDate>
+      <description><![CDATA[
+<p>Title for RSS: A simpler ChatGPT, a Rust rethink, and a bank that moves faster</p>
+<p>OpenAI made a bold promise this week. Thibault Sottiaux, who works on Codex and ChatGPT at OpenAI, said that for the next 28 days the team will do one of two things every day. It will either ship one clear improvement for most Codex and Work users, or give a full usage reset, so people get their full usage limit back. "Let the improvements begin," he wrote.</p>
+<p>Many people think the product needs this. Peter Yang, who makes practical AI guides, said ChatGPT "has become a mess." He wants OpenAI to simplify three things first: Work versus Codex, Spaces versus Pages versus Sites, and the picker where you choose a model and an effort level. His hot take is that the Work launch was a mistake. Claude folded Cowork back into its main chat, he noted, and he thinks Work does not need its own brand either.</p>
+<p>Other builders talked about how they really use AI now. Dan Shipper, CEO of Every, said Dot, a personal agent, has become his main way to use AI. His Dot is called Boo, and he finds it cute. But he expects Boo to disappear within a year, even if he still talks to ChatGPT in the same way, as an always-on agent that keeps running in the background. It reminds him of early OpenClaw days. People loved the small quirks of their agents, but they dropped them as soon as something more powerful came along.</p>
+<p>AI is also changing old choices about code. Vercel CEO Guillermo Rauch said his company moved Turborepo, its build tool, from the Go language to Rust. Rust was better for low-level work, but the move was expensive because humans were writing the code. People inside the company argued about whether it was worth it. Now that agents write more of the code, he says, what is "best for humans" is no longer always "best for business." He even thinks Rust may not be the final answer, because it was designed before agents arrived.</p>
+<p>Rauch also shared a simple rule. On a new project, he wrote the README file by hand, because it is for people. The internal documents are in AI-written English, because they are for agents. Blogs, tweets, and READMEs are for human communication, he said.</p>
+<p>The biggest story came from a podcast. Michael Lee runs Sequence Holdings, a company that buys older businesses and rebuilds them with AI. Together with the Dell family office, it has agreed to take the insurance broker Baldwin private for about $7.7 billion. Lee says an older company often has big advantages, such as its brand, its size, and rules that make it hard for startups to compete. What it usually lacks is the engineers to rebuild itself.</p>
+<p>His first test was BankSouth, a community bank in Georgia. Lee says banking rules helped instead of hurting, because the processes are clear and the data is clean. That makes the work easier for agents. In about six months, his team cut the average time for consumer loan underwriting (checking whether a person should get a loan) by 94%. Commercial loans now take 11 days from start to finish, down from 30. When loan volume doubled from the first quarter to the second, the bank handled all of it without lowering its standards or adding staff.</p>
+<p>Lee says the hardest part is not the code. It is the people. Workers can feel anxious, so his team tries to take away boring, repeated tasks and make jobs more fun.</p>
+<p>Box CEO Aaron Levie sees the same pattern across the economy. AI is already creating new jobs, such as engineers who build AI products for companies and people who set up agents inside banks, factories, and law firms. Official job numbers miss part of this, he says, because many existing roles are quietly moving into AI work.</p>
+<p>The message of the day is simple. Building is getting easier, so the real value is in products that feel simple and work that helps people every day. As Granola co-founder Sam put it, the easier it gets to build things, the more the details matter.</p>
+<p><strong>Sentence Focus</strong></p>
+<p>But he expects Boo to disappear within a year, even if he still talks to ChatGPT in the same way. - But he expects Boo / to disappear / within a year, / even if he still talks to ChatGPT / in the same way. - "expect + 人/物 + to do" 是「预计某物会……」；"even if" 引出让步，意思是「就算……也」，不是「即使是否」。 - 但他预计 Boo 一年内就会消失，哪怕他到时还是用同样的方式跟 ChatGPT 打交道。</p>
+<p>Michael Lee runs Sequence Holdings, a company that buys older businesses and rebuilds them with AI. - Michael Lee runs Sequence Holdings, / a company / that buys older businesses / and rebuilds them / with AI. - 逗号后的 "a company …" 是同位语，补充说明 Sequence Holdings 是什么；"that …" 是定语从句，两个动词 buys 和 rebuilds 共用同一个主语 that。 - Michael Lee 经营着 Sequence Holdings，这家公司专门收购老牌企业，再用 AI 把它们重建一遍。</p>
+<p>Lee says an older company often has big advantages, such as its brand, its size, and rules that make it hard for startups to compete. - Lee says / an older company often has big advantages, / such as its brand, / its size, / and rules / that make it hard / for startups to compete. - "such as" 后面列举例子；最后一项 "rules that make it hard for startups to compete" 里，it 是形式宾语，真正的内容是 "for startups to compete"。 - Lee 说，老牌公司往往有很大的优势，比如品牌、规模，以及让创业公司很难与之竞争的各种规则。</p>
+]]></description>
+    </item>
 
     <item>
       <title>Simpler tools, Dot clears the inbox, and agents still feel early</title>
