@@ -6,9 +6,30 @@
     <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 05 Oct 2026 21:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:45:00 +0800</lastBuildDate>
 
 
+
+    <item>
+      <title>Agents write the code, so builders want stronger rules</title>
+      <guid isPermaLink="false">english-reading-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 21:45:00 +0800</pubDate>
+      <description><![CDATA[
+<p>Title for RSS: Agents write the code, so builders want stronger rules</p>
+<p>AI agents, programs that can plan and finish tasks on their own, are writing more and more code. This week, several AI builders asked the same question. If people cannot check all of that code, how do we keep it safe, useful, and cheap?</p>
+<p>Vercel CEO Guillermo Rauch shared one answer. He introduced gdp-ts, a library, linter, and AI skill for TypeScript, a popular programming language. Some functions are sensitive, such as one that changes a password. With gdp-ts, code can call these functions only if it carries a "proof" that it already did an authorization check, meaning it checked what the user is allowed to do. The type checker, a tool that reads the code before it runs, makes sure the proof is there. If the proof is missing, the mistake is caught before the code ships.</p>
+<p>Rauch says these patterns are not new. They have existed for a long time in languages such as Haskell. But they stayed rare, because they were hard for humans to write and review. Now, he says, the situation is the other way around. Agents are writing more code than we can review, and they do well with hard rules that would frustrate people. In his example, changing the password on a Vercel project needs proof of two things: a certain role and a certain entitlement, which means the right to use that feature.</p>
+<p>The second big topic was evals, which are tests that measure how well an AI system does its job. Madhu Guru, a senior director of AI at Meta who earlier led Gemini at Google, gave a clear warning. "The most common mistake teams make is to treat evals as an additional QA step once the agent is built," he wrote. QA means quality checking. AI products are different, he said: "Your evals are your product spec." In plain words, the tests should describe what the product must do from the start.</p>
+<p>Box CEO Aaron Levie pushed the idea further. He says a lot of agent adoption is slowed down because companies cannot easily test agents in "real" work settings, such as the files, customer records, and email that agents need. Without good evals, a company cannot know how well its agents are working, or how they will perform after a model change. Today every company has to do this one by one, which is slow. Levie believes every large company will have someone managing evals, along with tools for simulated environments, which are fake but realistic workplaces for testing. He called it a "huge space."</p>
+<p>Money is part of the story too. Y Combinator CEO Garry Tan argued that harnesses from AI labs have an incentive to burn tokens. A harness is the software around a model that helps it use tools and finish work. Tokens are the small pieces of text that models read and write, and users pay for them. So Tan sees a real role for harnesses built by startups. He pointed to Grep, which can watch how an agent works and turn repeated token use into fixed, tested code that gives the same result every time.</p>
+<p>Thariq, who works on Claude Code at Anthropic, also talked about saving tokens. He said one way of planning is much more token efficient than raw HTML, because the model does not need to rebuild common parts such as diagrams and code snippets each time. He also shared a pattern he calls "local hands": Claude runs in the cloud but can still reach the files on your own computer, and this is coming to Cowork too. SPC partner Aditya Agarwal had a similar wish. He said it would be interesting to run the Muse/Dot "computer" locally, because that feels like a better place for agents than an increasingly locked-down macOS.</p>
+<p>Finally, two builders made things for language learners. Peter Yang built an app that teaches him Japanese through live voice calls, and he shared a tutorial so others can learn 100 phrases in any language before a trip. Ryo Lu, who has designed for Cursor and Notion, made a tool that lets you watch Netflix with subtitles in two languages at once.</p>
+<p><strong>Sentence Focus</strong></p>
+<p>Agents are writing more code than we can review, and they do well with hard rules that would frustrate people. - Agents are writing more code / than we can review, / and they do well / with hard rules / that would frustrate people. - "more code than we can review" 是比较结构，than 后面接的是一个小句（我们能审的量）；句尾 "that would frustrate people" 是定语从句，修饰 hard rules，would 表示「（换成人）会让人抓狂」。 - Agent 写代码的量已经超过我们能审的量，而且那些会让人类抓狂的硬性规则，它们反而适应得很好。</p>
+<p>"The most common mistake teams make is to treat evals as an additional QA step once the agent is built." - The most common mistake / teams make / is to treat evals / as an additional QA step / once the agent is built. - "teams make" 是省略了 that 的定语从句，修饰 mistake，真正的谓语是后面的 is；"treat A as B" 是「把 A 当成 B」；once 在这里是连词，意思是「一旦／等到……之后」。 - 团队最常犯的错误，是等 agent 做完之后，才把 eval 当成额外的一道质检环节。</p>
+<p>He pointed to Grep, which can watch how an agent works and turn repeated token use into fixed, tested code that gives the same result every time. - He pointed to Grep, / which can watch / how an agent works / and turn repeated token use / into fixed, tested code / that gives the same result / every time. - ", which …" 补充说明 Grep，can 后面并列两个动词 watch 和 turn；"turn A into B" 是「把 A 变成 B」，A 是 repeated token use，B 是一长串 code，最后的 "that …" 又修饰 code。 - 他举了 Grep 的例子：它能观察 agent 的工作方式，把反复消耗 token 的部分变成固定、经过测试、每次结果都一样的代码。</p>
+]]></description>
+    </item>
 
     <item>
       <title>A simpler ChatGPT, a Rust rethink, and a bank that moves faster</title>
