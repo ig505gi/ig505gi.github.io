@@ -3,12 +3,33 @@
   <channel>
     <title>AI Builders English Reading</title>
     <link>https://ig505gi.github.io/rss/</link>
-    <description>Daily B1+/Easy B2 English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
+    <description>Daily B1/B1+ English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 06 Oct 2026 21:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 21:45:00 +0800</lastBuildDate>
 
 
+
+    <item>
+      <title>Talk to agents like coworkers, then watch what they can reach</title>
+      <guid isPermaLink="false">english-reading-2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 21:45:00 +0800</pubDate>
+      <description><![CDATA[
+<p>Title for RSS: Talk to agents like coworkers, then watch what they can reach</p>
+<p>Some of the people who build AI tools shared a simple idea this week: working with an AI agent is starting to look like working with a coworker. An agent is a program that can plan and finish tasks on its own. But as agents get more power, the risks grow too, especially for security.</p>
+<p>Boris Cherny works on Claude Code at Anthropic. He said he was surprised that people were surprised by the way he writes prompts. A prompt is the message you give to an AI model. His advice is short: talk to Claude the way you would talk to a coworker. "There's no secret to prompting," he wrote. For most tasks, you do not need a long and strict set of rules. You give Claude a goal, and it will figure out the steps.</p>
+<p>He explained that this was not always true. Back in the days of Sonnet 3.5, an older model, the exact words of a prompt mattered a lot. Today, he says, three things matter more. First, tell the model what you want it to do. Second, tell it how much effort you want it to spend. Third, tell it how it should check that it did the right thing. He also shared some of his real prompts as examples.</p>
+<p>His teammate Thariq talked about where agents will live. He thinks Claude's "brain" will move more and more to the cloud, which means big computers run by the company. At the same time, Claude will get "local hands" to work on your own computer. This brings hard problems. If Claude can only reach your files when your computer is on, it may be stuck until you turn the computer back on. Some kind of sync, which means keeping two copies of files the same, could help. But sync has its own edge cases, the rare situations that break simple rules.</p>
+<p>Some teams already treat agents as part of the office. The company Every, which sells a subscription about AI, runs as much work as possible through agents. To help everyone share skills when a new model comes out, the team built one company agent on Claude Managed Agents, a service from Anthropic. Everyone uses it in Slack, the work chat app. After it became popular inside the company, Every released it to its subscribers. Claude also added a feature for working on files together. You can paste a Google file link, or ask for a new doc, sheet, or slide deck. The file opens next to the chat, and you and Claude can edit it together. Access follows your normal Google sharing settings.</p>
+<p>Not everyone is only talking about speed, though. Box CEO Aaron Levie believes cyber security will be one of the most important areas for AI in the next few years. He expects a whole new level of work for security teams. The problems include bugs from "vibe coded" software, which means code made quickly with AI and not checked carefully, and attacks run by agents. He even warned about agent "swarms," large groups of agents that might hunt for data by accident. Security teams already have fewer resources than many other teams, he said, so the pressure will grow. But agents can also be part of the answer, and people who can use agents to protect a company will be in high demand.</p>
+<p>Replit CEO Amjad Masad added a related point. He said AI is getting very good at reverse engineering, which means studying a finished program to learn how it was built. In his view, all software will soon be "de facto open-source," meaning that in practice, people will be able to see how it works, even if the company keeps the code private.</p>
+<p>Put together, these posts show two sides of the same change. Agents are becoming easier to work with, more like a helpful coworker inside Slack. That is exactly why companies now need to think harder about what those coworkers can reach.</p>
+<p><strong>Sentence Focus</strong></p>
+<p>Some kind of sync, which means keeping two copies of files the same, could help. - Some kind of sync, / which means / keeping two copies of files the same, / could help. - 主语 Some kind of sync 和谓语 could help 被中间的 ", which means …," 隔开，读的时候要先跳过插入部分把主干接上；"keep A the same" 是「让 A 保持一致」，这里用 -ing 形式做 means 的宾语。 - 某种同步机制，也就是让两份文件保持一致，也许能解决这个问题。</p>
+<p>In his view, all software will soon be "de facto open-source," meaning that in practice, people will be able to see how it works, even if the company keeps the code private. - In his view, / all software / will soon be "de facto open-source," / meaning that / in practice, / people will be able to see / how it works, / even if the company / keeps the code private. - ", meaning that …" 是对前面整句话的解释，相当于「意思是……」；"see how it works" 里 how 引导宾语从句；"even if" 是「即使」，后面是事实上可能成立的条件；"keep A private" 是「让 A 保持不公开」。 - 在他看来，所有软件很快都会变成"事实上的开源"：就算公司不公开代码，人们实际上也能看懂它是怎么运作的。</p>
+<p>That is exactly why companies now need to think harder about what those coworkers can reach. - That is exactly why / companies now need / to think harder / about what those coworkers / can reach. - "That is why …" 是「这正是……的原因」，That 指上一句说的事；about 后面接的是 what 引导的从句，what 在从句里做 reach 的宾语，意思是「它们能碰到的东西」。 - 正因为如此，公司现在更得好好想想：这些"同事"到底能接触到哪些东西。</p>
+]]></description>
+    </item>
 
     <item>
       <title>Agents write the code, so builders want stronger rules</title>
