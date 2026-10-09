@@ -6,9 +6,29 @@
     <description>Daily B1/B1+ English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 08 Oct 2026 21:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:45:00 +0800</lastBuildDate>
 
 
+
+    <item>
+      <title>Rebuild the stack for agents, then make sure the machines can keep up</title>
+      <guid isPermaLink="false">english-reading-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 21:45:00 +0800</pubDate>
+      <description><![CDATA[
+<p>Title for RSS: Rebuild the stack for agents, then make sure the machines can keep up</p>
+<p>Today&#x27;s AI news points to one big idea. An agent is a program that can plan and finish tasks on its own. Builders say agents are no longer just a feature inside an app. They are becoming a new kind of user. That means products, files, and even data centers may need to change.</p>
+<p>Madhu Guru, a senior AI leader at Meta, put this in plain words. For a few years, most teams tried to make enterprise software ready for agents. They added APIs, connectors, and MCP tools so agents could call business systems. Now personal agents are pushing the same question into consumer products. Online shopping is an early example. Guru says this is only the start. Desktop and phone systems may need to treat agents as first-class users. Cloud systems may need to let agents act more directly. Identity, permissions, and security may need to work for thousands of agents acting for people. Interfaces may need to serve humans, agents, or both at once. His advice for founders is simple: look at each layer of the computing stack, and ask what must change when the main user is an agent.</p>
+<p>Box CEO Aaron Levie shared a practical piece of that future. Box Mount lets developers mount Box as a file system inside an agent sandbox. As agents do harder work, they need to read and write files the way a person would. Levie says the future is &quot;headless,&quot; which means agents often work without a normal screen. He also defended a softer idea. Even if you do not believe AI is conscious (he does not), you may still want future models trained on polite interactions. Models learn from data and from the talks they have. If people are rude all the time, that becomes part of the training picture. Levie calls being nice to AI an easy Pascal&#x27;s wager: a small careful choice that may help later.</p>
+<p>The big labs also moved product and process. Claude Docs, Slides, and Design left beta and are available on every plan, including Free. People and Claude can edit the same document, deck, or design together. At the same time, Claude said it underestimated demand for its Startups program. With hundreds of thousands of applicants, it paused the Claude Team and $1,000 API credit offers. Credits already claimed stay in place. Applications that were approved but not claimed are being reviewed again, and some will not get the offer. Accepted members still keep Startup Stack and Applied AI office hours.</p>
+<p>OpenAI kept its daily shipping rhythm. Thibault Sottiaux, who works on Codex and ChatGPT, said Day 4 made steering instant. Steering means you can change the model&#x27;s direction while it works. Faster steering helps you course-correct in real time, so the model wastes less effort. The team also released GPT-6.1 Sol ultrafast, and he said the two work well together.</p>
+<p>Under all of this sits the hard reality of machines. On Training Data, Google AI infrastructure chief Amin Vahdat said the real goal is not theoretical FLOPS, a chip-speed number that looks good on paper. The real goal is goodput: how much useful work a full system finishes for a real workload, even when parts fail. At very large scale, something fails many times a day. Long-running agents also change the shape of demand. Without a human pause between replies, requests can come in milliseconds, and the need for CPUs, networking, and storage rises with the accelerators. Vahdat said power is the deepest long-term limit. Google prefers to plan with utilities years ahead and stay grid-connected when it can.</p>
+<p>Put together, the message is clear. Agents are moving from demos into daily systems. That forces product teams to rebuild the stack, and it forces infrastructure teams to measure useful work, not just peak chip speed.</p>
+<p><strong>Sentence Focus</strong></p>
+<p>Look at each layer of the computing stack, and ask what must change when the main user is an agent. - Look at / each layer / of the computing stack, / and ask / what must change / when the main user / is an agent. - &quot;what must change&quot; 是 ask 的宾语从句，what 在从句里做主语；&quot;when …&quot; 是时间从句，说明「在什么情况下」提出这个问题。 - 把计算栈的每一层都看一遍，然后问：当主要用户变成 agent 时，什么必须改变？</p>
+<p>Even if you do not believe AI is conscious, you may still want future models trained on polite interactions. - Even if / you do not believe / AI is conscious, / you may still want / future models / trained on polite interactions. - &quot;Even if&quot; 是「即使」；&quot;trained on …&quot; 是过去分词短语，修饰 models，意思是「用……训练出来的模型」。 - 即便你不相信 AI 有意识，你可能仍希望未来的模型是在礼貌互动上训练出来的。</p>
+<p>Faster steering helps you course-correct in real time, so the model wastes less effort. - Faster steering / helps you / course-correct / in real time, / so the model / wastes less effort. - &quot;help you do something&quot; 是「帮你做某事」；&quot;course-correct&quot; 是「中途纠偏」；&quot;so&quot; 引出结果。 - 更快的 steering 能帮你实时纠偏，这样模型就不会白费那么多力气。</p>
+]]></description>
+    </item>
 
     <item>
       <title>One shared agent, cheaper models, and a lot more work for computers</title>
