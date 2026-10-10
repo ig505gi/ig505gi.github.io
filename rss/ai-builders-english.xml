@@ -6,11 +6,32 @@
     <description>Daily B1/B1+ English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 09 Oct 2026 21:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 21:21:00 +0800</lastBuildDate>
 
 
 
+    
     <item>
+      <title>Cap the blast radius, then let agents run the web</title>
+      <guid isPermaLink="false">english-reading-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 21:21:00 +0800</pubDate>
+      <description><![CDATA[
+<p>Title for RSS: Cap the blast radius, then let agents run the web</p>
+<p>Today&#x27;s AI news points to one hard tradeoff. An agent is a program that can plan and finish tasks on its own. As agents get more useful, they also need more access. That raises a new question: how do you keep the damage small if something goes wrong?</p>
+<p>Anthropic&#x27;s engineering team wrote about this as &quot;blast radius.&quot; Blast radius means how much harm an agent could do if it fails or is attacked. One year ago, they would have said no to giving Claude enough access to take down an internal Anthropic service. Today that level of access is normal, and their developers move faster because of it. The team says risk has two parts: how likely a failure is, and how bad the damage could be. Better training and safeguards can lower the first part. The second part only grows as models get stronger and gain more tools.</p>
+<p>Human approval alone is not enough. In Claude Code, the product used to ask users for permission on each action. Telemetry, which means product usage data, showed that people approved about 93% of those prompts. The more prompts you see, the less carefully you read each one. Anthropic calls this approval fatigue. So they focus more on containment: sandboxes, virtual machines, and network limits that control what the agent is allowed to do, not only what a tired user clicks. They say Claude Mythos Preview was held back in April 2026 because its blast radius was still too high to ship.</p>
+<p>The same lab also published a frank postmortem on Claude Code quality. Over the past month, some users said Claude felt worse. Anthropic traced the reports to three product-layer changes, not to the API. One change lowered the default reasoning effort from high to medium to cut long waits. Users preferred stronger answers and asked to opt down for simple tasks, so the team reversed it. Another change was meant to clear old thinking after a long idle session, but a bug cleared it every turn and made Claude seem forgetful. A third change tried to cut verbosity and hurt coding quality. All three were fixed by April 20. As of April 23, Anthropic said it is resetting usage limits for all subscribers.</p>
+<p>On the builder side, the agent economy is already visible in traffic numbers. Vercel CEO Guillermo Rauch shared recent stats. Across Vercel&#x27;s network, about 58% of traffic in the last 30 days came from bots, up from 32% in January 2024. More than 60% of deployments are now agentic, up from about 3% in January 2026. On Vercel&#x27;s own docs sites, up to 83% of pageviews now come from agents. Rauch expects direct human internet traffic to become a rounding error in coming years. He also said agents already buy infrastructure through the CLI, and Vercel is extending that to domains.</p>
+<p>Box CEO Aaron Levie pushed the same idea from the compute side. Agents that spawn other agents, run in the background, and work in swarms will use far more tokens than people who prompt one agent at a time. He thinks chat that only moves when you type will look old within a year or two. Most tokens will be spent by agents doing continuous work. That is why he says we are still early, and why more compute and infrastructure will be needed.</p>
+<p>Put together, the message is practical. Make the blast radius small enough to ship. Fix product bugs honestly when quality slips. And build for a web where agents, not only people, are the main users.</p>
+<p><strong>Sentence Focus</strong></p>
+<p>The more prompts you see, the less carefully you read each one. - The more prompts / you see, / the less carefully / you read / each one. - &quot;the more …, the less …&quot; 是「越……，就越不……」的对比结构；carefully 修饰 read。 - 你看到的提示越多，就越不会仔细读每一个。</p>
+<p>Human approval alone is not enough. - Human approval / alone / is not enough. - alone 紧跟名词，意思是「单靠……」；sit 在主语和 be 之间，强调「仅此一项不够」。 - 单靠人工批准是不够的。</p>
+<p>Rauch expects direct human internet traffic to become a rounding error in coming years. - Rauch expects / direct human internet traffic / to become / a rounding error / in coming years. - expect A to do B；rounding error 本义是四舍五入误差，这里比喻「小到可以忽略」。 - Rauch 预计，未来几年直接来自真人的互联网流量会变成可以忽略的零头。</p>
+]]></description>
+    </item>
+
+<item>
       <title>Rebuild the stack for agents, then make sure the machines can keep up</title>
       <guid isPermaLink="false">english-reading-2026-10-09</guid>
       <pubDate>Fri, 09 Oct 2026 21:45:00 +0800</pubDate>
