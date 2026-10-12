@@ -6,12 +6,33 @@
     <description>Daily B1/B1+ English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 11 Oct 2026 21:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 21:55:00 +0800</lastBuildDate>
 
 
 
     
     
+    <item>
+      <title>The AI Funnel: Why Most People Still See Only a Chatbot</title>
+      <guid isPermaLink="false">english-reading-2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 21:55:00 +0800</pubDate>
+      <description><![CDATA[
+<p>Title for RSS: The AI Funnel: Why Most People Still See Only a Chatbot</p>
+<p>Andrej Karpathy, a well-known AI researcher, shared a simple idea this weekend that many builders shared. He says the gap in how people understand large language models, or LLMs (AI systems that read and write text), is getting wider. He no longer describes it as two groups talking past each other. He describes it as a sharp funnel.</p>
+<p>At the wide top of the funnel are about 6 billion people, roughly 75% of the world. They have barely used an LLM at all. Below them are 1 to 2 billion casual users of free chatbots. They use AI like a better Google search or a writing helper. Karpathy says many professionals outside math and code sit in this group too, including executives who spend a lot of their time talking to other people. They understand the change in theory, but for them it is still second-hand.</p>
+<p>The funnel gets much narrower after that. About 20 million people use top models for serious work in math and code. They see something different. Big projects that used to take weeks or months can now be done by an agent, a program that plans and finishes tasks on its own, from a single prompt. Karpathy adds that less than a year ago he still wrote code by hand, character by character. At the very bottom are about 5,000 people with access to the most advanced systems inside AI labs. There, swarms of thousands of agents work together for weeks on huge software projects, find security holes, and push forward in math. Human review is starting to fall behind.</p>
+<p>Why is the funnel so steep? Karpathy gives three reasons. First, the impact grows with the size of the problem. A question with a one-paragraph answer barely tests the system. Second, AI skill is &quot;jagged.&quot; It is strongest in areas that are digital, easy to check, and worth a lot of money, such as math and code. Third, there is access: free, paid, or internal.</p>
+<p>Box CEO Aaron Levie read the funnel as a sign of how early we still are. Most people use AI for simple chats. But agent swarms, he says, may be the final form of how agents will work inside companies, in fields such as finance, biology, and cybersecurity. Few people work this way today because of cost, limited tools, and model access. Other industries also need a lot of change management. Companies must update their workflows, move their data, and deal with security and compliance rules. For Levie, that is exactly where the opportunity is. Y Combinator CEO Garry Tan was more direct: &quot;Be part of the 5000 today.&quot; He expects prices to fall, so more people will see what that small group sees.</p>
+<p>On the product side, OpenAI made a change that helps longer agent work. Thibault Sottiaux, who works on Codex and ChatGPT, said the default context length for GPT-6.1 Sol in Codex and Work went from 272k to 500k tokens. Context length is how much text a model can keep in mind at once. A bigger window means fewer compactions, when the system has to shrink old context to save space. Users can still set it as high as 1 million. OpenAI also stopped charging long-context fees when people use Sol through their subscription.</p>
+<p>Speed matters for the same reason. Walter Goodwin, CEO of the chip company Fractile, argued on the No Priors podcast that a faster chatbot is just &quot;faster horses.&quot; The real prize is making long-running agents much faster. For that, chips need much more memory bandwidth, the speed at which data moves between memory and the processor.</p>
+<p>Put together, today&#x27;s news tells one story. The tools at the bottom of the funnel keep getting stronger, with longer memory and faster hardware. The big question is how fast everyone else can climb down to meet them.</p>
+<p><strong>Sentence Focus</strong></p>
+<p>Karpathy says many professionals outside math and code sit in this group too, including executives who spend a lot of their time talking to other people. - Sense groups: Karpathy says / many professionals / outside math and code / sit in this group too, / including executives / who spend a lot of their time / talking to other people. - Sticky structure: &quot;sit in this group&quot; means &quot;belong to this group,&quot; not literally sitting. &quot;including...&quot; adds examples, and &quot;who spend...&quot; is a relative clause that describes the executives. Note the pattern &quot;spend + time + doing&quot; (spend a lot of their time talking). - 中文：Karpathy 说，很多数学和代码领域之外的专业人士也属于这一层，包括那些大量时间都花在和别人打交道上的高管。</p>
+<p>Big projects that used to take weeks or months can now be done by an agent from a single prompt. - Sense groups: Big projects / that used to take / weeks or months / can now be done / by an agent / from a single prompt. - Sticky structure: the relative clause &quot;that used to take weeks or months&quot; sits between the subject and the verb, so the main verb &quot;can now be done&quot; comes late. &quot;Used to take&quot; means &quot;took in the past, but not now.&quot; - 中文：过去要花几周甚至几个月的大项目，现在只需一个 prompt 就能交给 agent 完成。</p>
+<p>A bigger window means fewer compactions, when the system has to shrink old context to save space. - Sense groups: A bigger window / means / fewer compactions, / when the system / has to shrink / old context / to save space. - Sticky structure: &quot;A means B&quot; links a cause and a result. The &quot;when...&quot; part does not give a time here; it explains what a compaction is. &quot;to save space&quot; shows purpose. - 中文：窗口越大，compaction 就越少，也就是系统为了腾出空间而压缩旧上下文的情况会减少。</p>
+]]></description>
+    </item>
+
     <item>
       <title>Catch the cheat inside the model, then build trust around agents</title>
       <guid isPermaLink="false">english-reading-2026-10-11</guid>
