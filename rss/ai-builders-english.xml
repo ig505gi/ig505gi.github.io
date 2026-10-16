@@ -6,10 +6,47 @@
     <description>Daily B1/B1+ English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 15 Oct 2026 21:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 21:40:00 +0800</lastBuildDate>
 
     
     
+
+        <item>
+      <title>Background Agents Will Burn Tokens, Open Weights Spread, and One Startup Bets on Decisions Not Chat</title>
+      <guid isPermaLink="false">english-reading-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 21:40:00 +0800</pubDate>
+      <description><![CDATA[
+<p>Today&#x27;s builder chatter points to three linked moves. First, agents are leaving the chat box and starting work in the background, which may use far more tokens. Second, open-weight models are spreading into real company stacks. Third, one new kind of model is trying to make decisions for software, not write long answers for humans.</p>
+<p>Box CEO Aaron Levie made the token story hard to ignore. He said moving from chat-style agents to agents you spin up in the background could mean about 100x or even 1000x more token use than today. A token is a small piece of text the model reads or writes, and more tokens usually means higher cost. Levie&#x27;s point is simple. Most knowledge work is still slow because people move data, review documents, scan code, and look up client facts. Chatbots helped with those steps, but a person still sits in the middle. The next step is different. You hand a hard goal to one agent, then to several agents at once, and later to a swarm that comes back only when the job is done. Much of that work is new, not just a copy of old tasks. So demand for compute, he argued, keeps rising.</p>
+<p>Levie also cheered Meta&#x27;s Muse open-weight release. Open-weight means a company shares the model&#x27;s weights so others can run and adapt it. He said U.S. open-source AI just took a big step. Firms can mix a strong frontier model for hard orchestration with cheaper, tuned models for repeatable workflows. That mix, in his view, will push more token use across the stack.</p>
+<p>While product leaders talked about volume, Anthropic&#x27;s Boris Cherny talked about trust. He works on Claude. He said Claude has made real progress against prompt injection. Prompt injection is a trick where bad text tries to make a model break its rules. As agents do more real actions, he said the whole industry must solve this faster. Anthropic is partnering with Gray Swan on a public competition to find new attacks. In plain words: if agents act for you, someone will try to hijack them.</p>
+<p>A third thread came from the MAD Podcast world. FirstMark investor Matt Turck sat down with Diogo Almeida, CEO of TypeSafe, about Jev one month after launch. Almeida&#x27;s bet is not &quot;better chat.&quot; It is machine-native AI built for software decisions. He said the future is intelligence per dollar, not only intelligence per second. Builders matter more than vanity stats, because they start shipping apps that felt too expensive before. He also used a blunt line about today&#x27;s models: they can feel like &quot;95% Einstein, 5% Mr. Bean.&quot; If the system does not tell you when it is in Mr. Bean mode, you cannot safely automate. Some people call Jev &quot;just a classifier.&quot; Almeida treats that as praise. He argued that strong classification is AI-complete, meaning it is as hard as the full AI problem. His product motto lands in plain English: build production software, not a god.</p>
+<p>Around that debate, two investors sketched opposite moods on interpretability. Interpretability means trying to see why a model did something. SPC partner Aditya Agarwal said portfolio company Goodfire is showing that interpretability and alignment can be treated as engineering problems. Every CEO Dan Shipper pushed back hard in a short parody. Finding a neuron that lights up for the Eiffel Tower, he said, does not tell you what a model is planning. Knowing it thinks about France is not the same as knowing its next move.</p>
+<p>Put together, the day is less about one leaderboard score. It is about scale, safety, and a different product shape. Can background agents pay for themselves when token use jumps? Can open weights spread without losing control? And can decision models earn trust when chat models still hide their weak moments?</p>
+<h3>Sentence Focus</h3>
+<ol>
+<li><strong>Moving from chat-style agents to agents you spin up in the background could mean about 100x or even 1000x more token use than today.</strong><ul><li>Sense groups: Moving from chat-style agents / to agents you spin up in the background / could mean / about 100x or even 1000x more token use / than today.</li><li>Sticky structure: <code>moving from A to B</code> = 从 A 转向 B；<code>could mean</code> = 可能意味着（幅度很大时常用）。</li><li>中文：从聊天式 agent 转到后台拉起的 agent，token 用量可能是今天的约 100 倍甚至 1000 倍。</li></ul></li>
+<li><strong>As agents do more real actions, he said the whole industry must solve this faster.</strong><ul><li>Sense groups: As agents do more real actions, / he said / the whole industry / must solve this / faster.</li><li>Sticky structure: <code>As + 句子</code> = 随着……；后面主句说结果或要求。</li><li>中文：随着 agent 能做更多真实动作，他说整个行业必须更快解决这个问题。</li></ul></li>
+<li><strong>Knowing it thinks about France is not the same as knowing its next move.</strong><ul><li>Sense groups: Knowing it thinks about France / is not the same as / knowing its next move.</li><li>Sticky structure: <code>A is not the same as B</code> = A 并不等于 B；两边常接动名词 <code>knowing...</code>。</li><li>中文：知道它在想法国，并不等于知道它下一步要干什么。</li></ul></li>
+</ol>
+]]></description>
+      <content:encoded><![CDATA[
+<p>Today&#x27;s builder chatter points to three linked moves. First, agents are leaving the chat box and starting work in the background, which may use far more tokens. Second, open-weight models are spreading into real company stacks. Third, one new kind of model is trying to make decisions for software, not write long answers for humans.</p>
+<p>Box CEO Aaron Levie made the token story hard to ignore. He said moving from chat-style agents to agents you spin up in the background could mean about 100x or even 1000x more token use than today. A token is a small piece of text the model reads or writes, and more tokens usually means higher cost. Levie&#x27;s point is simple. Most knowledge work is still slow because people move data, review documents, scan code, and look up client facts. Chatbots helped with those steps, but a person still sits in the middle. The next step is different. You hand a hard goal to one agent, then to several agents at once, and later to a swarm that comes back only when the job is done. Much of that work is new, not just a copy of old tasks. So demand for compute, he argued, keeps rising.</p>
+<p>Levie also cheered Meta&#x27;s Muse open-weight release. Open-weight means a company shares the model&#x27;s weights so others can run and adapt it. He said U.S. open-source AI just took a big step. Firms can mix a strong frontier model for hard orchestration with cheaper, tuned models for repeatable workflows. That mix, in his view, will push more token use across the stack.</p>
+<p>While product leaders talked about volume, Anthropic&#x27;s Boris Cherny talked about trust. He works on Claude. He said Claude has made real progress against prompt injection. Prompt injection is a trick where bad text tries to make a model break its rules. As agents do more real actions, he said the whole industry must solve this faster. Anthropic is partnering with Gray Swan on a public competition to find new attacks. In plain words: if agents act for you, someone will try to hijack them.</p>
+<p>A third thread came from the MAD Podcast world. FirstMark investor Matt Turck sat down with Diogo Almeida, CEO of TypeSafe, about Jev one month after launch. Almeida&#x27;s bet is not &quot;better chat.&quot; It is machine-native AI built for software decisions. He said the future is intelligence per dollar, not only intelligence per second. Builders matter more than vanity stats, because they start shipping apps that felt too expensive before. He also used a blunt line about today&#x27;s models: they can feel like &quot;95% Einstein, 5% Mr. Bean.&quot; If the system does not tell you when it is in Mr. Bean mode, you cannot safely automate. Some people call Jev &quot;just a classifier.&quot; Almeida treats that as praise. He argued that strong classification is AI-complete, meaning it is as hard as the full AI problem. His product motto lands in plain English: build production software, not a god.</p>
+<p>Around that debate, two investors sketched opposite moods on interpretability. Interpretability means trying to see why a model did something. SPC partner Aditya Agarwal said portfolio company Goodfire is showing that interpretability and alignment can be treated as engineering problems. Every CEO Dan Shipper pushed back hard in a short parody. Finding a neuron that lights up for the Eiffel Tower, he said, does not tell you what a model is planning. Knowing it thinks about France is not the same as knowing its next move.</p>
+<p>Put together, the day is less about one leaderboard score. It is about scale, safety, and a different product shape. Can background agents pay for themselves when token use jumps? Can open weights spread without losing control? And can decision models earn trust when chat models still hide their weak moments?</p>
+<h3>Sentence Focus</h3>
+<ol>
+<li><strong>Moving from chat-style agents to agents you spin up in the background could mean about 100x or even 1000x more token use than today.</strong><ul><li>Sense groups: Moving from chat-style agents / to agents you spin up in the background / could mean / about 100x or even 1000x more token use / than today.</li><li>Sticky structure: <code>moving from A to B</code> = 从 A 转向 B；<code>could mean</code> = 可能意味着（幅度很大时常用）。</li><li>中文：从聊天式 agent 转到后台拉起的 agent，token 用量可能是今天的约 100 倍甚至 1000 倍。</li></ul></li>
+<li><strong>As agents do more real actions, he said the whole industry must solve this faster.</strong><ul><li>Sense groups: As agents do more real actions, / he said / the whole industry / must solve this / faster.</li><li>Sticky structure: <code>As + 句子</code> = 随着……；后面主句说结果或要求。</li><li>中文：随着 agent 能做更多真实动作，他说整个行业必须更快解决这个问题。</li></ul></li>
+<li><strong>Knowing it thinks about France is not the same as knowing its next move.</strong><ul><li>Sense groups: Knowing it thinks about France / is not the same as / knowing its next move.</li><li>Sticky structure: <code>A is not the same as B</code> = A 并不等于 B；两边常接动名词 <code>knowing...</code>。</li><li>中文：知道它在想法国，并不等于知道它下一步要干什么。</li></ul></li>
+</ol>
+]]></content:encoded>
+    </item>
+
     <item>
       <title>Agents Break Out of the Box, Usage Resets Again, and One Fund Bets on Wild Ideas</title>
       <guid isPermaLink="false">english-reading-2026-10-15</guid>
@@ -146,7 +183,7 @@
 ]]></description>
     </item>
 
-<item>
+    <item>
       <title>Cap the blast radius, then let agents run the web</title>
       <guid isPermaLink="false">english-reading-2026-10-10</guid>
       <pubDate>Sat, 10 Oct 2026 21:21:00 +0800</pubDate>
@@ -166,7 +203,7 @@
 ]]></description>
     </item>
 
-<item>
+    <item>
       <title>Rebuild the stack for agents, then make sure the machines can keep up</title>
       <guid isPermaLink="false">english-reading-2026-10-09</guid>
       <pubDate>Fri, 09 Oct 2026 21:45:00 +0800</pubDate>
@@ -441,7 +478,7 @@
 <p>It is entirely plausible that the AI industry can deal with safety through shared standards for the foreseeable future.<br/>- It is entirely plausible / that the AI industry can deal with safety / through shared standards / for the foreseeable future.<br/>- “it is entirely plausible that …”＝完全说得通；“for the foreseeable future”＝在可预见的将来。<br/>- 完全说得通：在可预见的将来，AI 行业可以用共享标准来处理安全问题。</p>]]></content:encoded>
     </item>
 
-<item>
+    <item>
       <title>Sonnet 5.5 jumps, Pro usage math, and DevDay next</title>
       <guid isPermaLink="false">english-reading-2026-09-29</guid>
       <pubDate>Tue, 29 Sep 2026 21:37:00 +0800</pubDate>
@@ -491,7 +528,7 @@
 - 我只是高兴有两家对手在推前沿，这样大家都能受益。</p>]]></content:encoded>
     </item>
 
-<item>
+    <item>
       <title>Native apps, agent friction, and not eating the gains</title>
       <guid isPermaLink="false">english-reading-2026-09-28</guid>
       <pubDate>Mon, 28 Sep 2026 21:42:00 +0800</pubDate>
@@ -541,7 +578,7 @@
 - 你要么领先一年，要么落后一年，差别常常只在你的信息流。</p>]]></content:encoded>
     </item>
 
-<item>
+    <item>
       <title>Resets land, AI slop, and why diffusion may win inference</title>
       <guid isPermaLink="false">english-reading-2026-09-27</guid>
       <pubDate>Sun, 27 Sep 2026 21:19:00 +0800</pubDate>
@@ -591,7 +628,7 @@
 - 更并行的方案，最终会赢。</p>]]></content:encoded>
     </item>
 
-<item>
+    <item>
       <title>One Claude, agent procurement, and a Codex reset</title>
       <guid isPermaLink="false">english-reading-2026-09-26</guid>
       <pubDate>Sat, 26 Sep 2026 21:24:00 +0800</pubDate>
@@ -620,7 +657,7 @@
 - 你测不到的东西，就自动化不了。</p>]]></content:encoded>
     </item>
 
-<item>
+    <item>
       <title>Spend shifts, a hidden $30B layer, and Claude for small shops</title>
       <guid isPermaLink="false">english-reading-2026-09-25</guid>
       <pubDate>Fri, 25 Sep 2026 21:28:00 +0800</pubDate>
@@ -649,7 +686,7 @@
 - 如果你只让 agent 做清理，它会停得太早。</p>]]></content:encoded>
     </item>
 
-<item>
+    <item>
       <title>Blast radius, agent parts, and what agents are for</title>
       <guid isPermaLink="false">english-reading-2026-09-24</guid>
       <pubDate>Thu, 24 Sep 2026 21:43:00 +0800</pubDate>
@@ -679,7 +716,7 @@
 - 危险不是 AI 让人变懒。危险是它让人永远忙碌。</p>]]></content:encoded>
     </item>
 
-<item>
+    <item>
       <title>Price cuts land, Opus 5.5 ships, and Sol joins the race</title>
       <guid isPermaLink="false">english-reading-2026-09-23</guid>
       <pubDate>Wed, 23 Sep 2026 21:56:00 +0800</pubDate>
@@ -708,7 +745,7 @@
 - 更强的模型，不该意味着往外塞十倍功能。</p>]]></content:encoded>
     </item>
 
-<item>
+    <item>
       <title>Agents spend money, ads lose eyes, and Claude drives Chrome</title>
       <guid isPermaLink="false">english-reading-2026-09-22</guid>
       <pubDate>Tue, 22 Sep 2026 21:53:00 +0800</pubDate>
@@ -737,7 +774,7 @@
 - 这条产品故事，就挨着一条带直白广告警告的商业故事。</p>]]></content:encoded>
     </item>
 
-<item>
+    <item>
       <title>Personal agents race, agent QA grind, and banking the AIs</title>
       <guid isPermaLink="false">english-reading-2026-09-21</guid>
       <pubDate>Mon, 21 Sep 2026 22:05:00 +0800</pubDate>
@@ -768,7 +805,7 @@
 - 他不想让 AI「没银行」、开不了户。</p>]]></content:encoded>
     </item>
 
-<item>
+    <item>
       <title>Build for agents, tinker daily, and watch who gets in</title>
       <guid isPermaLink="false">english-reading-2026-09-20</guid>
       <pubDate>Sun, 20 Sep 2026 21:30:00 +0800</pubDate>
@@ -798,7 +835,7 @@
 - 看过那波公告后，他几乎当成定局：已经有一些大公司在不知情的情况下被 nation-state 渗透了。</p>]]></content:encoded>
     </item>
 
-<item>
+    <item>
       <title>Agents that read shared rules, models that race on speed</title>
       <guid isPermaLink="false">english-reading-2026-09-19</guid>
       <pubDate>Sat, 19 Sep 2026 21:30:00 +0800</pubDate>
@@ -830,7 +867,7 @@
 - 这种分秒级判断，就挨着对更便宜模型调用的巨大需求。</p>]]></content:encoded>
     </item>
 
-<item>
+    <item>
       <title>Claude Projects, family agents, and a flood of tiny software</title>
       <guid isPermaLink="false">english-reading-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 21:50:00 +0800</pubDate>
@@ -862,7 +899,7 @@
    - 这种共享记忆，就挨着眼下正在大量部署的微型软件。</p>]]></content:encoded>
     </item>
 
-<item>
+    <item>
       <title>One Claude for chat and real work</title>
       <guid isPermaLink="false">english-reading-2026-09-17</guid>
       <pubDate>Thu, 17 Sep 2026 21:40:00 +0800</pubDate>
@@ -891,35 +928,6 @@
    - That kind of blunt feedback / sits next to / the launch excitement.<br/>
    - “blunt” 指直白、不绕弯；“sits next to” 表示两种东西并排出现、形成对照，不是字面「坐在旁边」。<br/>
    - 这种直白的反馈，就挨着发布时的兴奋声。</p>]]></content:encoded>
-    </item>
-
-<item>
-      <title>Models are strong — the hard part is still the bridge to work</title>
-      <guid isPermaLink="false">english-reading-2026-09-16</guid>
-      <pubDate>Wed, 16 Sep 2026 21:44:00 +0800</pubDate>
-      <description><![CDATA[<p>Title for RSS: Models are strong — the hard part is still the bridge to work</p>
-<p>Today’s AI news kept coming back to one idea. The models are powerful. The hard part is still connecting that power to real company work.</p>]]></description>
-      <content:encoded><![CDATA[<p>Title for RSS: Models are strong — the hard part is still the bridge to work</p>
-<p>Today’s AI news kept coming back to one idea. The models are powerful. The hard part is still connecting that power to real company work.</p>
-<p>Box CEO Aaron Levie put this in plain words on Training Data and again on X. He said there is a big gap between what models can do and the workflows enterprises want to automate. That gap, he argued, is the chance for an “applied AI” layer — software that sits next to the model and makes it useful at work. In his view, you need to link intelligence to workflows, rebuild some processes, pull the right context and data, keep people in the loop, run change management, do domain-specific evals (tests that check quality in a real field), and manage security. Even if models keep getting better, this layer still matters. Stronger models let you try harder tasks, so the bridge can become even more important.</p>
-<p>Levie also talked about “diffusion” — how AI spreads through many companies, not only through a few big labs. A chatbot can be general. A real workflow often needs something else. It may need to ping you at the right step. It may need data the chatbot cannot reach on its own. Someone still has to set that up inside the company and add domain knowledge. Unless the big labs hire something like 100,000 people to do all of that, he said, a large “diffusion economy” will grow: teams that help firms of every size change how they work. One memorable line from the talk was simple: “You’re either a year ahead or a year behind simply based on your feed.”</p>
-<p>On the product side, Claude moved deeper into day-to-day business tools. Salesforce in Claude is now in beta. It brings accounts, opportunities, and pipeline into Claude, with 37 pre-built sales skills. You can prep a call, review a deal, build a pipeline dashboard, or send a forecast without leaving the chat. Separately, Claude for Small Business added more ready workflows and 27 new integrations with tools owners already use, such as Shopify, Salesforce, Stripe, and Zapier. The product has been installed more than 900,000 times since May. After listening to owners on a spring tour, Anthropic said about a third wanted help growing the business — leads, inbound questions, and proposals — not only running the back office.</p>
-<p>Elsewhere, builders argued about how models should judge and connect. Every CEO Dan Shipper said his team almost never tests new foundation models, but one recent model felt different. It does not mainly output words. It outputs probabilities. In their testing, it could act as a judge in places where you might need a much larger model, yet it was about 25× faster and about 600× cheaper. Replit CEO Amjad Masad pushed back on the wider trend: if you already know the set of possible answers, why not train a model to score those options directly with logprobs (probability scores over a fixed list)? Claude Code’s Thariq said another integration bet is shifting too. He now thinks MCP is better than CLIs for most integrations, because tool calling is stronger, tools can be deferred, and MCP is stateless.</p>
-<p>Infrastructure voices kept the same theme: give people choice, and show your work. Vercel CEO Guillermo Rauch formally introduced Vercel Labs as a public home for research and experiments. He also said the future is multi-model. Hiding the choice, in his view, confuses customers and keeps them from learning which tool fits the job. OpenAI CEO Sam Altman teased a heavy shipping week before DevDay. YC’s Garry Tan said Capy plus his GStack/GBrain setup cut a day of fix work to about half, using the same frontier models.</p>
-<p>Put together, the day was less about a brand-new model name and more about the messy middle. Levie’s bridge, Claude’s sales and small-business connectors, probability judges, MCP tools, and multi-model product design all point to the same problem: intelligence is not enough until it sits next to real workflows, real data, and real people.</p>
-<h3>Sentence Focus</h3>
-<p>That gap, he argued, is the chance for an “applied AI” layer — software that sits next to the model and makes it useful at work.<br/>
-   - That gap, / he argued, / is the chance for an “applied AI” layer / — software that sits next to the model / and makes it useful at work.<br/>
-   - “he argued” 插入语；“sits next to” 表示紧挨着、配合使用，不是字面「坐在旁边」。<br/>
-   - 他认为，那道鸿沟正是「应用层 AI」的机会：一类紧挨着模型、让它在工作中真正有用的软件。</p>
-<p>Even if models keep getting better, this layer still matters.<br/>
-   - Even if models keep getting better, / this layer still matters.<br/>
-   - “Even if …” 让步：就算模型继续变强，后面结论仍成立。<br/>
-   - 即便模型不断变强，这一层仍然重要。</p>
-<p>Unless the big labs hire something like 100,000 people to do all of that, he said, a large “diffusion economy” will grow.<br/>
-   - Unless the big labs hire something like 100,000 people to do all of that, / he said, / a large “diffusion economy” will grow.<br/>
-   - “Unless …” = 「除非…否则」；主句在逗号后，说明扩散经济会出现的条件。<br/>
-   - 他说，除非大实验室雇差不多十万人去包办这一切，否则会成长出很大的「扩散经济」。</p>]]></content:encoded>
     </item>
 
 </channel>
