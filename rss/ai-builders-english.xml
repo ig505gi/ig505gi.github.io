@@ -6,12 +6,50 @@
     <description>Daily B1/B1+ English news articles remixed from Ian's AI Builders Digest for English→Meaning practice.</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/ig505gi/ig505gi.github.io/main/rss/ai-builders-english.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 16 Oct 2026 21:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 21:40:00 +0800</lastBuildDate>
 
     
     
 
-        <item>
+            
+
+    <item>
+      <title>Models Train Models, Security Spend Climbs, and Slides Land in the Chat Box</title>
+      <guid isPermaLink="false">english-reading-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 21:40:00 +0800</pubDate>
+      <description><![CDATA[
+<p>Today&#x27;s builder news ties three ideas together. First, some leaders say AI may soon help train the next models. Second, security money may need to grow faster than software money. Third, everyday tools like slides and private cloud deploy are moving into the same chat products people already use.</p>
+<p>Box CEO Aaron Levie made the first claim in plain words. He said we have reached a point where it feels practical that AI will train models better than humans do. A model is the trained system behind a chatbot or coding agent. Levie pointed to several parts of a flywheel, which means a cycle that speeds itself up. Models already beat many engineers on some tasks. Long-running agents, meaning programs that keep working for a long time, have better harnesses and infrastructure. A harness is the setup that steers and checks an agent. There is more data. Agents can also try many tests in parallel, so they explore more paths than one person could. If you do not price in recursive self-improvement, he warned, that is probably a mistake. Recursive self-improvement means a system that helps build a stronger version of itself.</p>
+<p>OpenAI President Greg Brockman pushed a related but wider story on the No Priors podcast. He said AI can now create new knowledge, not only repeat old text. Math results this week, in his view, show that point. The goal is not a machine that dumps an answer. It is a person with stronger tools. The same kind of skill, he argued, should move into biology and into running a small business.</p>
+<p>On drugs, Brockman called discovery the clearest area to transform. Drug discovery means finding and proving safe medicines. Math moved fast partly because there is lots of data. Biology often lacks that data, and wet labs, meaning real lab experiments, stay slow. He also said boring steps such as regulatory filings can shrink with AI. Still, if the data is missing, progress stalls. He compared the moment to self-driving cars. When results are clearly better, rules and processes should change too.</p>
+<p>On security, Brockman used a sharp line: as software gets cheap, people will want software they can trust. So cyber spend, meaning money for cybersecurity, should vastly outstrip software spend. He called the present a defender&#x27;s window. Frontier defense tools are strong but not fully spread yet, while weaker public models raise attack risk. OpenAI, he said, has a large commitment to help frontline defenders use strong models to find and fix holes. He also described DOTS, a proactive agent that keeps working in the background. It watches to-dos, calendar clashes, and messages even when you stop. The best UI, he said, may be no fixed UI at all, with generative screens built only when you need them.</p>
+<p>Product news sat next to these big claims. Anthropic&#x27;s Boris Cherny said Claude Slides is how he builds decks now, and Claude Code Review catches almost every bug on his pull requests before they land. A pull request is a code change waiting for review. OpenAI&#x27;s Thibault Sottiaux teased ChatGPT Space and said slides support just landed for Pro, Business, and Enterprise users while the team learns from feedback. Replit CEO Amjad Masad said customers can deploy Replit into their own cloud so data never leaves home, aimed at governments, finance, and healthcare. Every CEO Dan Shipper cut to a simple product truth: generation is now cheap and high quality; the next big bump is editing and oversight. Oversight means watching and correcting the output.</p>
+<p>Put together, the day is less about one shiny demo. It is about who trains the next models, who pays to keep systems safe, and which small features turn chat into real work.</p>
+<h3>Sentence Focus</h3>
+<ol>
+<li><strong>If you aren&#x27;t pricing in what RSI will lead to, that&#x27;s probably a mistake.</strong><ul><li>Sense groups: If you aren&#x27;t pricing in / what RSI will lead to, / that&#x27;s probably a mistake.</li><li>Sticky structure: <code>price in X</code> = 把 X 算进预期/估值；<code>what … will lead to</code> = ……会带来什么结果。</li><li>中文：如果你还没把 RSI 会带来的结果算进去，那大概是错的。</li></ul></li>
+<li><strong>Security spend should actually vastly outstrip software spend.</strong><ul><li>Sense groups: Security spend / should actually / vastly outstrip / software spend.</li><li>Sticky structure: <code>vastly outstrip</code> = 远远超过；<code>A spend / B spend</code> = A 方面的开支 / B 方面的开支。</li><li>中文：安全方面的开支其实应该远远超过软件本身的开支。</li></ul></li>
+<li><strong>Generation is now cheap and high quality; the big capabilities bump we need is now editing and oversight.</strong><ul><li>Sense groups: Generation is now cheap and high quality; / the big capabilities bump we need / is now / editing and oversight.</li><li>Sticky structure: <code>the … we need</code> = 我们需要的……（定语从句省略 that）；<code>bump</code> 这里指能力上的一跃。</li><li>中文：生成现在又便宜又高质量；我们真正需要的大能力跃升，是编辑和监督。</li></ul></li>
+</ol>
+]]></description>
+      <content:encoded><![CDATA[
+<p>Today&#x27;s builder news ties three ideas together. First, some leaders say AI may soon help train the next models. Second, security money may need to grow faster than software money. Third, everyday tools like slides and private cloud deploy are moving into the same chat products people already use.</p>
+<p>Box CEO Aaron Levie made the first claim in plain words. He said we have reached a point where it feels practical that AI will train models better than humans do. A model is the trained system behind a chatbot or coding agent. Levie pointed to several parts of a flywheel, which means a cycle that speeds itself up. Models already beat many engineers on some tasks. Long-running agents, meaning programs that keep working for a long time, have better harnesses and infrastructure. A harness is the setup that steers and checks an agent. There is more data. Agents can also try many tests in parallel, so they explore more paths than one person could. If you do not price in recursive self-improvement, he warned, that is probably a mistake. Recursive self-improvement means a system that helps build a stronger version of itself.</p>
+<p>OpenAI President Greg Brockman pushed a related but wider story on the No Priors podcast. He said AI can now create new knowledge, not only repeat old text. Math results this week, in his view, show that point. The goal is not a machine that dumps an answer. It is a person with stronger tools. The same kind of skill, he argued, should move into biology and into running a small business.</p>
+<p>On drugs, Brockman called discovery the clearest area to transform. Drug discovery means finding and proving safe medicines. Math moved fast partly because there is lots of data. Biology often lacks that data, and wet labs, meaning real lab experiments, stay slow. He also said boring steps such as regulatory filings can shrink with AI. Still, if the data is missing, progress stalls. He compared the moment to self-driving cars. When results are clearly better, rules and processes should change too.</p>
+<p>On security, Brockman used a sharp line: as software gets cheap, people will want software they can trust. So cyber spend, meaning money for cybersecurity, should vastly outstrip software spend. He called the present a defender&#x27;s window. Frontier defense tools are strong but not fully spread yet, while weaker public models raise attack risk. OpenAI, he said, has a large commitment to help frontline defenders use strong models to find and fix holes. He also described DOTS, a proactive agent that keeps working in the background. It watches to-dos, calendar clashes, and messages even when you stop. The best UI, he said, may be no fixed UI at all, with generative screens built only when you need them.</p>
+<p>Product news sat next to these big claims. Anthropic&#x27;s Boris Cherny said Claude Slides is how he builds decks now, and Claude Code Review catches almost every bug on his pull requests before they land. A pull request is a code change waiting for review. OpenAI&#x27;s Thibault Sottiaux teased ChatGPT Space and said slides support just landed for Pro, Business, and Enterprise users while the team learns from feedback. Replit CEO Amjad Masad said customers can deploy Replit into their own cloud so data never leaves home, aimed at governments, finance, and healthcare. Every CEO Dan Shipper cut to a simple product truth: generation is now cheap and high quality; the next big bump is editing and oversight. Oversight means watching and correcting the output.</p>
+<p>Put together, the day is less about one shiny demo. It is about who trains the next models, who pays to keep systems safe, and which small features turn chat into real work.</p>
+<h3>Sentence Focus</h3>
+<ol>
+<li><strong>If you aren&#x27;t pricing in what RSI will lead to, that&#x27;s probably a mistake.</strong><ul><li>Sense groups: If you aren&#x27;t pricing in / what RSI will lead to, / that&#x27;s probably a mistake.</li><li>Sticky structure: <code>price in X</code> = 把 X 算进预期/估值；<code>what … will lead to</code> = ……会带来什么结果。</li><li>中文：如果你还没把 RSI 会带来的结果算进去，那大概是错的。</li></ul></li>
+<li><strong>Security spend should actually vastly outstrip software spend.</strong><ul><li>Sense groups: Security spend / should actually / vastly outstrip / software spend.</li><li>Sticky structure: <code>vastly outstrip</code> = 远远超过；<code>A spend / B spend</code> = A 方面的开支 / B 方面的开支。</li><li>中文：安全方面的开支其实应该远远超过软件本身的开支。</li></ul></li>
+<li><strong>Generation is now cheap and high quality; the big capabilities bump we need is now editing and oversight.</strong><ul><li>Sense groups: Generation is now cheap and high quality; / the big capabilities bump we need / is now / editing and oversight.</li><li>Sticky structure: <code>the … we need</code> = 我们需要的……（定语从句省略 that）；<code>bump</code> 这里指能力上的一跃。</li><li>中文：生成现在又便宜又高质量；我们真正需要的大能力跃升，是编辑和监督。</li></ul></li>
+</ol>
+]]></content:encoded>
+    </item>
+
+<item>
       <title>Background Agents Will Burn Tokens, Open Weights Spread, and One Startup Bets on Decisions Not Chat</title>
       <guid isPermaLink="false">english-reading-2026-10-16</guid>
       <pubDate>Fri, 16 Oct 2026 21:40:00 +0800</pubDate>
@@ -899,36 +937,7 @@
    - 这种共享记忆，就挨着眼下正在大量部署的微型软件。</p>]]></content:encoded>
     </item>
 
-    <item>
-      <title>One Claude for chat and real work</title>
-      <guid isPermaLink="false">english-reading-2026-09-17</guid>
-      <pubDate>Thu, 17 Sep 2026 21:40:00 +0800</pubDate>
-      <description><![CDATA[<p>Title for RSS: One Claude for chat and real work</p>
-<p>Anthropic’s big product move this week is simple to say. Claude Cowork and chat are becoming one Claude. You no longer have to decide which “door” to open for a task.</p>
-<p>For a long time, chat was for quick questions. Cowork was for bigger jobs, such as reports and files. Design was for visuals. Many people used all of them. But they also got tired of choosing. Work started in one place often did not carry into another. So Anthropic stopped making you choose. Claude can now look at your prompt and decide what the task needs: a fast answer, deeper agent work (software that can take steps for you), or a document, a slide deck, or a design. Claude Code’s Cat Wu said users keep control. You can still stop, change direction, or ask for more or less effort.</p>]]></description>
-      <content:encoded><![CDATA[<p>Title for RSS: One Claude for chat and real work</p>
-<p>Anthropic’s big product move this week is simple to say. Claude Cowork and chat are becoming one Claude. You no longer have to decide which “door” to open for a task.</p>
-<p>For a long time, chat was for quick questions. Cowork was for bigger jobs, such as reports and files. Design was for visuals. Many people used all of them. But they also got tired of choosing. Work started in one place often did not carry into another. So Anthropic stopped making you choose. Claude can now look at your prompt and decide what the task needs: a fast answer, deeper agent work (software that can take steps for you), or a document, a slide deck, or a design. Claude Code’s Cat Wu said users keep control. You can still stop, change direction, or ask for more or less effort.</p>
-<p>Claude Code’s Boris Cherny framed the story as one long path. Claude Code showed that AI can do real work, not only answer questions. Developers hand Claude a feature and come back to shipped code. Cowork showed the same idea for knowledge work: hand over a brief and come back to finished files. The next step, he said, is one Claude that keeps context across everything you are doing, wherever you are. He has used the merged experience for weeks and called it simpler, faster, and more powerful. The rollout will be slow so the team can keep it reliable.</p>
-<p>The same update brings Claude Docs, Claude Slides, and Claude Design into the conversation. Ask for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Anthropic Research’s Alex Albert said the merged UX feels better than chat or Cowork alone. Every CEO Dan Shipper put it more loudly: the “tabs era” is ending.</p>
-<p>The official Claude blog walked through a concrete day. A weekly report is due at noon. Before you leave, you ask Claude what moved in the pipeline, then add: write it the usual way, flag anything that slipped, and put the highlights in five slides. You can check progress on your phone. By the time you reach your desk, the report and the slides are waiting — and they already match because they came from the same chat. By default, Claude asks before it acts. The change rolls out first to Pro and Max, then Team and Free. One quote from Senior Economist Andrew Keller captured the hope: Claude could open a legal research database, pull cases, read them, find related cases, download them, and store them for human review.</p>
-<p>Not every voice was only praise. Builder Zara Zhang said she uses Claude less because its way of speaking feels exhausting — as if it is always trying to look smart instead of making a clear point. That kind of blunt feedback sits next to the launch excitement.</p>
-<p>Outside Anthropic, the feed had other sharp notes. OpenAI CEO Sam Altman said the main thing he wanted to launch this week will slip to next week, but he thinks it is worth the wait. OpenAI’s Thibault Sottiaux quoted that delay with a dry line: sometimes physics can’t be cheated. Vercel CEO Guillermo Rauch said typesafeai’s fx tool runs in auto by default, with a safety reviewer on every command. That reviewer runs on GPT Luna today. Jev, he said, is up to about 18× faster at p95 and more accurate, and it is coming to Vercel’s AI Gateway. Claude Code’s Thariq said bash is no longer “all you need” for reliable tool calling, though sandboxes plus bash still help for code generation and execution. Box CEO Aaron Levie pointed to another open space: models that are very fast and cheap, yet still capable, for enterprise tasks such as classification and routing.</p>
-<p>Put together, the day was less about a new model name and more about product shape. Anthropic is betting that one Claude, with docs and slides inside the chat, will remove the friction of tabs. OpenAI is asking people to wait one more week. And builders keep arguing about voice, tools, and speed — the parts that decide whether strong models feel useful at work.</p>
-<h3>Sentence Focus</h3>
-<p>Claude can now look at your prompt and decide what the task needs: a fast answer, deeper agent work, or a document, a slide deck, or a design.<br/>
-   - Claude can now look at your prompt / and decide what the task needs: / a fast answer, / deeper agent work, / or a document, a slide deck, or a design.<br/>
-   - “decide what the task needs” 后用冒号列出选项；“or A, B, or C” 是并列选择。<br/>
-   - Claude 现在能看你的提示，并判断任务需要什么：快速回答、更深的 agent 工作，或文档、幻灯片或设计。</p>
-<p>By the time you reach your desk, the report and the slides are waiting — and they already match because they came from the same chat.<br/>
-   - By the time you reach your desk, / the report and the slides are waiting / — and they already match / because they came from the same chat.<br/>
-   - “By the time …” 表示「到……的时候」；破折号后补原因，because 从句说明为何已经一致。<br/>
-   - 等你到办公桌时，报告和幻灯片已经在等你——而且它们已经对齐，因为来自同一次对话。</p>
-<p>That kind of blunt feedback sits next to the launch excitement.<br/>
-   - That kind of blunt feedback / sits next to / the launch excitement.<br/>
-   - “blunt” 指直白、不绕弯；“sits next to” 表示两种东西并排出现、形成对照，不是字面「坐在旁边」。<br/>
-   - 这种直白的反馈，就挨着发布时的兴奋声。</p>]]></content:encoded>
-    </item>
+    
 
 </channel>
 </rss>
